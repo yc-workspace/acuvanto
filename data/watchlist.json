@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T05:01:40.509Z",
+  "updatedAt": "2026-09-06T05:03:27.958Z",
   "tickers": [
     {
       "ticker": "0052.TW",
@@ -40,6 +40,15 @@
     {
       "ticker": "IYW",
       "name": "iShares US Technology ETF",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "watchlist"
+      ]
+    },
+    {
+      "ticker": "IAUM",
+      "name": "iShares Gold Trust Micro",
       "currency": "USD",
       "market": "US",
       "sources": [
