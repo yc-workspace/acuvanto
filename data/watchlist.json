@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:58:05.373Z",
+  "updatedAt": "2026-09-06T05:00:38.375Z",
   "tickers": [
     {
       "ticker": "0052.TW",
@@ -15,6 +15,15 @@
       "name": "Invesco NASDAQ 100 ETF",
       "currency": "USD",
       "market": "US",
+      "sources": [
+        "watchlist"
+      ]
+    },
+    {
+      "ticker": "2330.TW",
+      "name": "台積電",
+      "currency": "TWD",
+      "market": "TW",
       "sources": [
         "watchlist"
       ]
