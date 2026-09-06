@@ -1,11 +1,20 @@
 {
-  "updatedAt": "2026-09-05T23:21:37.046Z",
+  "updatedAt": "2026-09-06T04:58:05.373Z",
   "tickers": [
     {
       "ticker": "0052.TW",
       "name": "富邦科技",
       "currency": "TWD",
       "market": "TW",
+      "sources": [
+        "watchlist"
+      ]
+    },
+    {
+      "ticker": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "currency": "USD",
+      "market": "US",
       "sources": [
         "watchlist"
       ]
