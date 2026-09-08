@@ -4,216 +4,216 @@
     "ClearingMargin": "519000",
     "MaintenanceMargin": "538000",
     "InitialMargin": "701000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "小型臺指",
     "ClearingMargin": "129750",
     "MaintenanceMargin": "134500",
     "InitialMargin": "175250",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "客製化小型臺指期貨",
     "ClearingMargin": "129750",
     "MaintenanceMargin": "134500",
     "InitialMargin": "175250",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "微型臺指期貨",
     "ClearingMargin": "25950",
     "MaintenanceMargin": "26900",
     "InitialMargin": "35050",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "臺指選擇權風險保證金(A)值",
     "ClearingMargin": "138000",
     "MaintenanceMargin": "143000",
     "InitialMargin": "187000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "臺指選擇權風險保證金(B)值",
     "ClearingMargin": "69000",
     "MaintenanceMargin": "72000",
     "InitialMargin": "94000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "臺指選擇權風險保證金(C)值",
     "ClearingMargin": "13800",
     "MaintenanceMargin": "14400",
     "InitialMargin": "18800",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "臺灣中型100期貨",
     "ClearingMargin": "21000",
     "MaintenanceMargin": "22000",
     "InitialMargin": "29000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "電子期貨",
     "ClearingMargin": "724000",
     "MaintenanceMargin": "750000",
     "InitialMargin": "978000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "小型電子期貨",
     "ClearingMargin": "90500",
     "MaintenanceMargin": "93750",
     "InitialMargin": "122250",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "電子選擇權風險保證金(A)值",
     "ClearingMargin": "52000",
     "MaintenanceMargin": "54000",
     "InitialMargin": "71000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "電子選擇權風險保證金(B)值",
     "ClearingMargin": "26000",
     "MaintenanceMargin": "27000",
     "InitialMargin": "36000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "電子選擇權風險保證金(C)值",
     "ClearingMargin": "0",
     "MaintenanceMargin": "0",
     "InitialMargin": "0",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "金融期貨",
     "ClearingMargin": "117000",
     "MaintenanceMargin": "122000",
     "InitialMargin": "158000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "小型金融期貨",
     "ClearingMargin": "29250",
     "MaintenanceMargin": "30500",
     "InitialMargin": "39500",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "金融選擇權風險保證金(A)值",
     "ClearingMargin": "33000",
     "MaintenanceMargin": "35000",
     "InitialMargin": "45000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "金融選擇權風險保證金(B)值",
     "ClearingMargin": "17000",
     "MaintenanceMargin": "18000",
     "InitialMargin": "23000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "金融選擇權風險保證金(C)值",
     "ClearingMargin": "0",
     "MaintenanceMargin": "0",
     "InitialMargin": "0",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "非金電期貨",
     "ClearingMargin": "7000",
     "MaintenanceMargin": "8000",
     "InitialMargin": "10000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "櫃買期貨",
     "ClearingMargin": "96000",
     "MaintenanceMargin": "100000",
     "InitialMargin": "130000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "富櫃200期貨",
     "ClearingMargin": "59000",
     "MaintenanceMargin": "62000",
     "InitialMargin": "80000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "臺灣永續期貨",
     "ClearingMargin": "125000",
     "MaintenanceMargin": "130000",
     "InitialMargin": "169000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "臺灣生技期貨",
     "ClearingMargin": "11000",
     "MaintenanceMargin": "12000",
     "InitialMargin": "15000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "半導體30期貨",
     "ClearingMargin": "51000",
     "MaintenanceMargin": "53000",
     "InitialMargin": "69000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "航運期貨",
     "ClearingMargin": "10000",
     "MaintenanceMargin": "11000",
     "InitialMargin": "14000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "東證期貨",
     "ClearingMargin": "36000",
     "MaintenanceMargin": "38000",
     "InitialMargin": "49000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "美國道瓊期貨",
     "ClearingMargin": "47000",
     "MaintenanceMargin": "49000",
     "InitialMargin": "64000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "美國標普500期貨",
     "ClearingMargin": "76000",
     "MaintenanceMargin": "79000",
     "InitialMargin": "103000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "美國那斯達克100期貨",
     "ClearingMargin": "72000",
     "MaintenanceMargin": "75000",
     "InitialMargin": "98000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "美國費城半導體期貨",
     "ClearingMargin": "65000",
     "MaintenanceMargin": "68000",
     "InitialMargin": "88000",
-    "Date": "20260904"
+    "Date": "20260907"
   },
   {
     "Contract": "英國富時100期貨",
     "ClearingMargin": "21000",
     "MaintenanceMargin": "22000",
     "InitialMargin": "29000",
-    "Date": "20260904"
+    "Date": "20260907"
   }
 ]
