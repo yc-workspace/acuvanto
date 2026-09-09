@@ -1,4 +1,14 @@
 {
-  "updatedAt": "2026-09-07T23:44:01.164Z",
-  "tickers": []
+  "updatedAt": "2026-09-09T00:44:29.102Z",
+  "tickers": [
+    {
+      "ticker": "006208.TW",
+      "name": "富邦台 50",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "holding"
+      ]
+    }
+  ]
 }
