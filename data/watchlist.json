@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:52:22.085Z",
+  "updatedAt": "2026-09-09T00:53:26.247Z",
   "tickers": [
     {
       "ticker": "006208.TW",
@@ -40,6 +40,15 @@
     {
       "ticker": "IYW",
       "name": "iShares US Technology ETF",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "SCHG",
+      "name": "SCHG",
       "currency": "USD",
       "market": "US",
       "sources": [
