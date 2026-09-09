@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:52:14.860Z",
+  "updatedAt": "2026-09-09T05:52:49.315Z",
   "tickers": [
     {
       "ticker": "2330.TW",
@@ -32,11 +32,32 @@
       ]
     },
     {
+      "ticker": "00708L.TW",
+      "name": "期元大 S&P 黃金正 2",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "watchlist",
+        "holding"
+      ]
+    },
+    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "currency": "USD",
       "market": "US",
       "sources": [
+        "watchlist",
+        "holding"
+      ]
+    },
+    {
+      "ticker": "IAUM",
+      "name": "iShares Gold Trust Micro",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "watchlist",
         "holding"
       ]
     },
@@ -63,24 +84,6 @@
       "name": "iShares Bitcoin Trust ETF",
       "currency": "USD",
       "market": "US",
-      "sources": [
-        "holding"
-      ]
-    },
-    {
-      "ticker": "IAUM",
-      "name": "iShares Gold Trust Micro",
-      "currency": "USD",
-      "market": "US",
-      "sources": [
-        "holding"
-      ]
-    },
-    {
-      "ticker": "00708L.TW",
-      "name": "期元大 S&P 黃金正 2",
-      "currency": "TWD",
-      "market": "TW",
       "sources": [
         "holding"
       ]
