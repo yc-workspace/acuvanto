@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T01:15:15.801Z",
+  "updatedAt": "2026-09-09T01:15:24.166Z",
   "tickers": [
     {
       "ticker": "006208.TW",
@@ -40,15 +40,6 @@
     {
       "ticker": "IYW",
       "name": "iShares US Technology ETF",
-      "currency": "USD",
-      "market": "US",
-      "sources": [
-        "holding"
-      ]
-    },
-    {
-      "ticker": "SCHG",
-      "name": "Schwab US Large-Cap Growth ETF",
       "currency": "USD",
       "market": "US",
       "sources": [
