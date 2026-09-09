@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-09-09T01:14:41.833Z",
+  "updatedAt": "2026-09-09T01:14:50.532Z",
   "tickers": [
     {
       "ticker": "006208.TW",
       "name": "富邦台 50",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "00935.TW",
+      "name": "野村臺灣新科技 50",
       "currency": "TWD",
       "market": "TW",
       "sources": [
