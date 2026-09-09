@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:48:10.346Z",
+  "updatedAt": "2026-09-09T00:49:09.096Z",
   "tickers": [
     {
       "ticker": "006208.TW",
@@ -33,6 +33,15 @@
       "name": "Invesco NASDAQ 100 ETF",
       "currency": "TWD",
       "market": "TW",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "IYW",
+      "name": "iShares US Technology ETF",
+      "currency": "USD",
+      "market": "US",
       "sources": [
         "holding"
       ]
