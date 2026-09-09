@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:47:11.884Z",
+  "updatedAt": "2026-09-09T00:48:10.346Z",
   "tickers": [
     {
       "ticker": "006208.TW",
@@ -31,15 +31,6 @@
     {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
-      "currency": "TWD",
-      "market": "TW",
-      "sources": [
-        "holding"
-      ]
-    },
-    {
-      "ticker": "006208",
-      "name": "006208",
       "currency": "TWD",
       "market": "TW",
       "sources": [
