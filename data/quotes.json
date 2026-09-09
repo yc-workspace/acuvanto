@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-09-09T02:03:23.783Z",
-  "sourceWatchlistUpdatedAt": "2026-09-09T01:26:22.433Z",
-  "quotes": {
-    "VOO": {
-      "price": 704.07,
-      "prevClose": 704.89,
-      "change": -0.8199999999999363,
-      "changePct": -0.11633020755010517,
-      "volume": 7815100,
-      "currency": "USD",
-      "exchangeName": "PCX",
-      "asOf": "2026-09-08T20:00:00.000Z",
-      "yahooSymbol": "VOO"
-    }
-  }
+  "updatedAt": "2026-09-09T02:04:09.838Z",
+  "sourceWatchlistUpdatedAt": "2026-09-09T02:03:25.764Z",
+  "quotes": {},
+  "note": "尚無 ticker，請先在 wealth-ledger 裡新增觀察清單或持股交易"
 }
