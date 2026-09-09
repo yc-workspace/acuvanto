@@ -1,9 +1,29 @@
 {
-  "updatedAt": "2026-09-09T05:51:35.806Z",
+  "updatedAt": "2026-09-09T05:52:14.860Z",
   "tickers": [
     {
       "ticker": "2330.TW",
       "name": "台積電",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "watchlist",
+        "holding"
+      ]
+    },
+    {
+      "ticker": "0052.TW",
+      "name": "富邦科技",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "watchlist",
+        "holding"
+      ]
+    },
+    {
+      "ticker": "00635U.TW",
+      "name": "期元大 S&P 黃金",
       "currency": "TWD",
       "market": "TW",
       "sources": [
@@ -39,15 +59,6 @@
       ]
     },
     {
-      "ticker": "0052.TW",
-      "name": "富邦科技",
-      "currency": "TWD",
-      "market": "TW",
-      "sources": [
-        "holding"
-      ]
-    },
-    {
       "ticker": "IBIT",
       "name": "iShares Bitcoin Trust ETF",
       "currency": "USD",
@@ -61,15 +72,6 @@
       "name": "iShares Gold Trust Micro",
       "currency": "USD",
       "market": "US",
-      "sources": [
-        "holding"
-      ]
-    },
-    {
-      "ticker": "00635U.TW",
-      "name": "期元大 S&P 黃金",
-      "currency": "TWD",
-      "market": "TW",
       "sources": [
         "holding"
       ]
