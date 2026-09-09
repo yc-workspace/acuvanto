@@ -1,4 +1,86 @@
 {
-  "updatedAt": "2026-09-09T02:03:25.764Z",
-  "tickers": []
+  "updatedAt": "2026-09-09T02:44:19.921Z",
+  "tickers": [
+    {
+      "ticker": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "IYW",
+      "name": "iShares US Technology ETF",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "SCHG",
+      "name": "Schwab US Large-Cap Growth ETF",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "0052.TW",
+      "name": "富邦科技",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "IBIT",
+      "name": "iShares Bitcoin Trust ETF",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "IAUM",
+      "name": "iShares Gold Trust Micro",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "00635U.TW",
+      "name": "期元大 S&P 黃金",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "00708L.TW",
+      "name": "期元大 S&P 黃金正 2",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "2330.TW",
+      "name": "台積電",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "holding"
+      ]
+    }
+  ]
 }
