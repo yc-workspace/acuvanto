@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T01:03:47.715Z",
+  "updatedAt": "2026-09-09T01:04:51.414Z",
   "tickers": [
     {
       "ticker": "006208.TW",
@@ -76,6 +76,15 @@
     {
       "ticker": "IBIT",
       "name": "IBIT",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "IAUM",
+      "name": "IAUM",
       "currency": "USD",
       "market": "US",
       "sources": [
