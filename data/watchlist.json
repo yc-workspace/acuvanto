@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:46:01.292Z",
+  "updatedAt": "2026-09-09T00:47:11.884Z",
   "tickers": [
     {
       "ticker": "006208.TW",
@@ -24,6 +24,24 @@
       "name": "Vanguard S&P 500 ETF",
       "currency": "USD",
       "market": "US",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "006208",
+      "name": "006208",
+      "currency": "TWD",
+      "market": "TW",
       "sources": [
         "holding"
       ]
