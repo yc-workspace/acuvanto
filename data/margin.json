@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T12:13:06.211Z",
+  "updatedAt": "2026-09-09T00:18:48.014Z",
   "source": "TAIFEX OpenAPI",
   "margin": {
     "TX": 701000,
@@ -21,187 +21,187 @@
       "initialMargin": 701000,
       "maintenanceMargin": 538000,
       "clearingMargin": 519000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "小型臺指": {
       "initialMargin": 175250,
       "maintenanceMargin": 134500,
       "clearingMargin": 129750,
-      "date": "20260907"
+      "date": "20260908"
     },
     "客製化小型臺指期貨": {
       "initialMargin": 175250,
       "maintenanceMargin": 134500,
       "clearingMargin": 129750,
-      "date": "20260907"
+      "date": "20260908"
     },
     "微型臺指期貨": {
       "initialMargin": 35050,
       "maintenanceMargin": 26900,
       "clearingMargin": 25950,
-      "date": "20260907"
+      "date": "20260908"
     },
     "臺指選擇權風險保證金(A)值": {
       "initialMargin": 187000,
       "maintenanceMargin": 143000,
       "clearingMargin": 138000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "臺指選擇權風險保證金(B)值": {
       "initialMargin": 94000,
       "maintenanceMargin": 72000,
       "clearingMargin": 69000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "臺指選擇權風險保證金(C)值": {
       "initialMargin": 18800,
       "maintenanceMargin": 14400,
       "clearingMargin": 13800,
-      "date": "20260907"
+      "date": "20260908"
     },
     "臺灣中型100期貨": {
       "initialMargin": 29000,
       "maintenanceMargin": 22000,
       "clearingMargin": 21000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "電子期貨": {
       "initialMargin": 978000,
       "maintenanceMargin": 750000,
       "clearingMargin": 724000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "小型電子期貨": {
       "initialMargin": 122250,
       "maintenanceMargin": 93750,
       "clearingMargin": 90500,
-      "date": "20260907"
+      "date": "20260908"
     },
     "電子選擇權風險保證金(A)值": {
       "initialMargin": 71000,
       "maintenanceMargin": 54000,
       "clearingMargin": 52000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "電子選擇權風險保證金(B)值": {
       "initialMargin": 36000,
       "maintenanceMargin": 27000,
       "clearingMargin": 26000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "電子選擇權風險保證金(C)值": {
       "initialMargin": 0,
       "maintenanceMargin": 0,
       "clearingMargin": 0,
-      "date": "20260907"
+      "date": "20260908"
     },
     "金融期貨": {
       "initialMargin": 158000,
       "maintenanceMargin": 122000,
       "clearingMargin": 117000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "小型金融期貨": {
       "initialMargin": 39500,
       "maintenanceMargin": 30500,
       "clearingMargin": 29250,
-      "date": "20260907"
+      "date": "20260908"
     },
     "金融選擇權風險保證金(A)值": {
       "initialMargin": 45000,
       "maintenanceMargin": 35000,
       "clearingMargin": 33000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "金融選擇權風險保證金(B)值": {
       "initialMargin": 23000,
       "maintenanceMargin": 18000,
       "clearingMargin": 17000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "金融選擇權風險保證金(C)值": {
       "initialMargin": 0,
       "maintenanceMargin": 0,
       "clearingMargin": 0,
-      "date": "20260907"
+      "date": "20260908"
     },
     "非金電期貨": {
       "initialMargin": 10000,
       "maintenanceMargin": 8000,
       "clearingMargin": 7000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "櫃買期貨": {
       "initialMargin": 130000,
       "maintenanceMargin": 100000,
       "clearingMargin": 96000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "富櫃200期貨": {
       "initialMargin": 80000,
       "maintenanceMargin": 62000,
       "clearingMargin": 59000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "臺灣永續期貨": {
       "initialMargin": 169000,
       "maintenanceMargin": 130000,
       "clearingMargin": 125000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "臺灣生技期貨": {
       "initialMargin": 15000,
       "maintenanceMargin": 12000,
       "clearingMargin": 11000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "半導體30期貨": {
       "initialMargin": 69000,
       "maintenanceMargin": 53000,
       "clearingMargin": 51000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "航運期貨": {
       "initialMargin": 14000,
       "maintenanceMargin": 11000,
       "clearingMargin": 10000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "東證期貨": {
       "initialMargin": 49000,
       "maintenanceMargin": 38000,
       "clearingMargin": 36000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "美國道瓊期貨": {
       "initialMargin": 64000,
       "maintenanceMargin": 49000,
       "clearingMargin": 47000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "美國標普500期貨": {
       "initialMargin": 103000,
       "maintenanceMargin": 79000,
       "clearingMargin": 76000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "美國那斯達克100期貨": {
       "initialMargin": 98000,
       "maintenanceMargin": 75000,
       "clearingMargin": 72000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "美國費城半導體期貨": {
       "initialMargin": 88000,
       "maintenanceMargin": 68000,
       "clearingMargin": 65000,
-      "date": "20260907"
+      "date": "20260908"
     },
     "英國富時100期貨": {
       "initialMargin": 29000,
       "maintenanceMargin": 22000,
       "clearingMargin": 21000,
-      "date": "20260907"
+      "date": "20260908"
     }
   },
   "categories": {
@@ -220,42 +220,42 @@
         "initialMargin": 560,
         "maintenanceMargin": 430,
         "clearingMargin": 410,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "黃金選擇權風險保證金(A)值",
         "initialMargin": 18000,
         "maintenanceMargin": 14000,
         "clearingMargin": 13000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "黃金選擇權風險保證金(B)值",
         "initialMargin": 9000,
         "maintenanceMargin": 7000,
         "clearingMargin": 7000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "臺幣黃金期貨",
         "initialMargin": 22000,
         "maintenanceMargin": 17000,
         "clearingMargin": 16000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "黃金選擇權風險保證金(C)值",
         "initialMargin": 0,
         "maintenanceMargin": 0,
         "clearingMargin": 0,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "布蘭特原油期貨",
         "initialMargin": 87000,
         "maintenanceMargin": 67000,
         "clearingMargin": 64000,
-        "date": "20260907"
+        "date": "20260908"
       }
     ],
     "singleStock": [
@@ -3525,7 +3525,7 @@
         "initialMargin": 87000,
         "maintenanceMargin": 67000,
         "clearingMargin": 64000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "SRF",
@@ -3535,7 +3535,7 @@
         "initialMargin": 8700,
         "maintenanceMargin": 6700,
         "clearingMargin": 6400,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "OAF",
@@ -3545,7 +3545,7 @@
         "initialMargin": 29000,
         "maintenanceMargin": 22000,
         "clearingMargin": 21000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "OBF",
@@ -3555,7 +3555,7 @@
         "initialMargin": 29000,
         "maintenanceMargin": 22000,
         "clearingMargin": 21000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "OJF",
@@ -3565,7 +3565,7 @@
         "initialMargin": 21000,
         "maintenanceMargin": 16000,
         "clearingMargin": 15000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "OKF",
@@ -3575,7 +3575,7 @@
         "initialMargin": 13000,
         "maintenanceMargin": 10000,
         "clearingMargin": 9000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "OOF",
@@ -3585,7 +3585,7 @@
         "initialMargin": 15000,
         "maintenanceMargin": 12000,
         "clearingMargin": 11000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "PFF",
@@ -3595,7 +3595,7 @@
         "initialMargin": 30000,
         "maintenanceMargin": 23000,
         "clearingMargin": 22000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "SSF",
@@ -3605,7 +3605,7 @@
         "initialMargin": 3000,
         "maintenanceMargin": 2300,
         "clearingMargin": 2200,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "RIF",
@@ -3615,7 +3615,7 @@
         "initialMargin": 21000,
         "maintenanceMargin": 16000,
         "clearingMargin": 15000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "RXF",
@@ -3625,7 +3625,7 @@
         "initialMargin": 14000,
         "maintenanceMargin": 11000,
         "clearingMargin": 10000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "RYF",
@@ -3635,7 +3635,7 @@
         "initialMargin": 37000,
         "maintenanceMargin": 28000,
         "clearingMargin": 27000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "RZF",
@@ -3645,7 +3645,7 @@
         "initialMargin": 19000,
         "maintenanceMargin": 15000,
         "clearingMargin": 14000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "SGF",
@@ -3655,7 +3655,7 @@
         "initialMargin": 32000,
         "maintenanceMargin": 24000,
         "clearingMargin": 23000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "SIF",
@@ -3665,7 +3665,7 @@
         "initialMargin": 15000,
         "maintenanceMargin": 12000,
         "clearingMargin": 11000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "SMF",
@@ -3675,7 +3675,7 @@
         "initialMargin": 18000,
         "maintenanceMargin": 14000,
         "clearingMargin": 13000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "SNF",
@@ -3685,7 +3685,7 @@
         "initialMargin": 22000,
         "maintenanceMargin": 17000,
         "clearingMargin": 16000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "SQF",
@@ -3695,7 +3695,7 @@
         "initialMargin": 22000,
         "maintenanceMargin": 17000,
         "clearingMargin": 16000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "SUF",
@@ -3705,7 +3705,7 @@
         "initialMargin": 9000,
         "maintenanceMargin": 7000,
         "clearingMargin": 6000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "UJF",
@@ -3715,7 +3715,7 @@
         "initialMargin": 11000,
         "maintenanceMargin": 9000,
         "clearingMargin": 8000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "UKF",
@@ -3725,7 +3725,7 @@
         "initialMargin": 21000,
         "maintenanceMargin": 16000,
         "clearingMargin": 15000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "URF",
@@ -3735,7 +3735,7 @@
         "initialMargin": 107000,
         "maintenanceMargin": 82000,
         "clearingMargin": 79000,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "USF",
@@ -3745,7 +3745,7 @@
         "initialMargin": 10700,
         "maintenanceMargin": 8200,
         "clearingMargin": 7900,
-        "date": "20260907"
+        "date": "20260908"
       },
       {
         "contract": "VHF",
@@ -3755,7 +3755,7 @@
         "initialMargin": 56000,
         "maintenanceMargin": 43000,
         "clearingMargin": 41000,
-        "date": "20260907"
+        "date": "20260908"
       }
     ]
   }
