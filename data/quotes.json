@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:32:59.390Z",
+  "updatedAt": "2026-09-09T05:33:55.734Z",
   "sourceWatchlistUpdatedAt": "2026-09-09T02:46:07.195Z",
   "quotes": {
     "QQQM": {
@@ -40,10 +40,10 @@
       "prevClose": 61.6,
       "change": 2.1999999999999957,
       "changePct": 3.571428571428564,
-      "volume": 11108413,
+      "volume": 11125506,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-09T05:12:37.000Z",
+      "asOf": "2026-09-09T05:13:42.000Z",
       "yahooSymbol": "0052.TW"
     },
     "IBIT": {
@@ -69,14 +69,14 @@
       "yahooSymbol": "IAUM"
     },
     "00635U.TW": {
-      "price": 45.22,
+      "price": 45.23,
       "prevClose": 45.76,
-      "change": -0.5399999999999991,
-      "changePct": -1.1800699300699282,
-      "volume": 2275783,
+      "change": -0.5300000000000011,
+      "changePct": -1.1582167832167858,
+      "volume": 2288883,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-09T05:12:13.000Z",
+      "asOf": "2026-09-09T05:13:40.000Z",
       "yahooSymbol": "00635U.TW"
     },
     "00708L.TW": {
@@ -84,21 +84,21 @@
       "prevClose": 82.05,
       "change": -1.8999999999999915,
       "changePct": -2.3156611822059614,
-      "volume": 3144610,
+      "volume": 3165690,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-09T05:12:54.000Z",
+      "asOf": "2026-09-09T05:13:50.000Z",
       "yahooSymbol": "00708L.TW"
     },
     "2330.TW": {
-      "price": 2465,
+      "price": 2470,
       "prevClose": 2390,
-      "change": 75,
-      "changePct": 3.1380753138075312,
-      "volume": 12435516,
+      "change": 80,
+      "changePct": 3.3472803347280333,
+      "volume": 12444941,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-09T05:12:39.000Z",
+      "asOf": "2026-09-09T05:13:44.000Z",
       "yahooSymbol": "2330.TW"
     }
   }
