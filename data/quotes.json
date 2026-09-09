@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:04:16.203Z",
+  "updatedAt": "2026-09-09T03:33:39.634Z",
   "sourceWatchlistUpdatedAt": "2026-09-09T02:46:07.195Z",
   "quotes": {
     "QQQM": {
@@ -36,14 +36,14 @@
       "yahooSymbol": "SCHG"
     },
     "0052.TW": {
-      "price": 64.2,
+      "price": 64.1,
       "prevClose": 61.6,
-      "change": 2.6000000000000014,
-      "changePct": 4.220779220779223,
-      "volume": 5657842,
+      "change": 2.499999999999993,
+      "changePct": 4.0584415584415465,
+      "volume": 6867234,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-09T02:44:12.000Z",
+      "asOf": "2026-09-09T03:13:22.000Z",
       "yahooSymbol": "0052.TW"
     },
     "IBIT": {
@@ -69,36 +69,36 @@
       "yahooSymbol": "IAUM"
     },
     "00635U.TW": {
-      "price": 45.11,
+      "price": 45.2,
       "prevClose": 45.76,
-      "change": -0.6499999999999986,
-      "changePct": -1.4204545454545425,
-      "volume": 1443030,
+      "change": -0.5599999999999952,
+      "changePct": -1.2237762237762133,
+      "volume": 1643640,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-09T02:41:44.000Z",
+      "asOf": "2026-09-09T03:12:33.000Z",
       "yahooSymbol": "00635U.TW"
     },
     "00708L.TW": {
-      "price": 79.75,
+      "price": 80,
       "prevClose": 82.05,
-      "change": -2.299999999999997,
-      "changePct": -2.803168799512489,
-      "volume": 2346876,
+      "change": -2.049999999999997,
+      "changePct": -2.498476538695914,
+      "volume": 2508982,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-09T02:43:42.000Z",
+      "asOf": "2026-09-09T03:10:05.000Z",
       "yahooSymbol": "00708L.TW"
     },
     "2330.TW": {
-      "price": 2485,
+      "price": 2475,
       "prevClose": 2390,
-      "change": 95,
-      "changePct": 3.9748953974895396,
-      "volume": 6370144,
+      "change": 85,
+      "changePct": 3.556485355648536,
+      "volume": 7885390,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-09T02:44:08.000Z",
+      "asOf": "2026-09-09T03:13:38.000Z",
       "yahooSymbol": "2330.TW"
     }
   }
