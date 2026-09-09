@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:53:26.247Z",
+  "updatedAt": "2026-09-09T00:54:52.594Z",
   "tickers": [
     {
       "ticker": "006208.TW",
@@ -48,9 +48,18 @@
     },
     {
       "ticker": "SCHG",
-      "name": "SCHG",
+      "name": "Schwab US Large-Cap Growth ETF",
       "currency": "USD",
       "market": "US",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "00923.TW",
+      "name": "群益台 ESG 低碳 50",
+      "currency": "TWD",
+      "market": "TW",
       "sources": [
         "holding"
       ]
