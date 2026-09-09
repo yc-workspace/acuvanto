@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:57:08.788Z",
+  "updatedAt": "2026-09-09T00:58:08.956Z",
   "tickers": [
     {
       "ticker": "006208.TW",
@@ -69,6 +69,15 @@
       "name": "富邦科技",
       "currency": "TWD",
       "market": "TW",
+      "sources": [
+        "holding"
+      ]
+    },
+    {
+      "ticker": "IBIT",
+      "name": "IBIT",
+      "currency": "USD",
+      "market": "US",
       "sources": [
         "holding"
       ]
