@@ -4,41 +4,41 @@
     "ClearingMargin": "410",
     "MaintenanceMargin": "430",
     "InitialMargin": "560",
-    "Date": "20260910"
+    "Date": "20260911"
   },
   {
     "Contract": "黃金選擇權風險保證金(A)值",
     "ClearingMargin": "13000",
     "MaintenanceMargin": "14000",
     "InitialMargin": "18000",
-    "Date": "20260910"
+    "Date": "20260911"
   },
   {
     "Contract": "黃金選擇權風險保證金(B)值",
     "ClearingMargin": "7000",
     "MaintenanceMargin": "7000",
     "InitialMargin": "9000",
-    "Date": "20260910"
+    "Date": "20260911"
   },
   {
     "Contract": "臺幣黃金期貨",
     "ClearingMargin": "16000",
     "MaintenanceMargin": "17000",
     "InitialMargin": "22000",
-    "Date": "20260910"
+    "Date": "20260911"
   },
   {
     "Contract": "黃金選擇權風險保證金(C)值",
     "ClearingMargin": "0",
     "MaintenanceMargin": "0",
     "InitialMargin": "0",
-    "Date": "20260910"
+    "Date": "20260911"
   },
   {
     "Contract": "布蘭特原油期貨",
     "ClearingMargin": "64000",
     "MaintenanceMargin": "67000",
     "InitialMargin": "87000",
-    "Date": "20260910"
+    "Date": "20260911"
   }
 ]
