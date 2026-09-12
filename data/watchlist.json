@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T23:20:58.490Z",
+  "updatedAt": "2026-09-12T04:41:36.904Z",
   "tickers": [
     {
       "ticker": "2330.TW",
@@ -79,6 +79,15 @@
       "sources": [
         "watchlist",
         "holding"
+      ]
+    },
+    {
+      "ticker": "00662.TW",
+      "name": "00662.TW",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "watchlist"
       ]
     },
     {
