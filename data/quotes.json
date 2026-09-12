@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T04:37:27.641Z",
-  "sourceWatchlistUpdatedAt": "2026-09-11T23:20:58.490Z",
+  "updatedAt": "2026-09-12T05:00:08.990Z",
+  "sourceWatchlistUpdatedAt": "2026-09-12T04:41:36.904Z",
   "quotes": {
     "2330.TW": {
       "price": 2410,
@@ -89,6 +89,17 @@
       "exchangeName": "PCX",
       "asOf": "2026-09-11T20:00:00.000Z",
       "yahooSymbol": "SCHG"
+    },
+    "00662.TW": {
+      "price": 118.4,
+      "prevClose": 120.1,
+      "change": -1.6999999999999886,
+      "changePct": -1.4154870940882505,
+      "volume": 3325160,
+      "currency": "TWD",
+      "exchangeName": "TAI",
+      "asOf": "2026-09-11T05:30:12.000Z",
+      "yahooSymbol": "00662.TW"
     },
     "IBIT": {
       "price": 43.77,
