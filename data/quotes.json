@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T21:29:17.046Z",
+  "updatedAt": "2026-09-12T22:43:48.555Z",
   "sourceWatchlistUpdatedAt": "2026-09-12T04:41:36.904Z",
   "quotes": {
     "2330.TW": {
@@ -18,7 +18,7 @@
       "prevClose": 63.75,
       "change": -1.2000000000000028,
       "changePct": -1.882352941176475,
-      "volume": 15601581,
+      "volume": 14760158,
       "currency": "TWD",
       "exchangeName": "TAI",
       "asOf": "2026-09-11T05:30:13.000Z",
@@ -29,7 +29,7 @@
       "prevClose": 45.57,
       "change": -0.8100000000000023,
       "changePct": -1.7774851876234417,
-      "volume": 6018057,
+      "volume": 5852414,
       "currency": "TWD",
       "exchangeName": "TAI",
       "asOf": "2026-09-11T05:30:07.000Z",
@@ -40,7 +40,7 @@
       "prevClose": 81.25,
       "change": -2.9000000000000057,
       "changePct": -3.569230769230776,
-      "volume": 7995004,
+      "volume": 7779851,
       "currency": "TWD",
       "exchangeName": "TAI",
       "asOf": "2026-09-11T05:30:09.000Z",
@@ -95,7 +95,7 @@
       "prevClose": 120.1,
       "change": -1.6999999999999886,
       "changePct": -1.4154870940882505,
-      "volume": 3325160,
+      "volume": 2987232,
       "currency": "TWD",
       "exchangeName": "TAI",
       "asOf": "2026-09-11T05:30:12.000Z",
