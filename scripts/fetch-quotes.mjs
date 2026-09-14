@@ -21,7 +21,22 @@ async function fetchQuote(symbol) {
 
   const meta = result.meta || {};
   const price = meta.regularMarketPrice ?? null;
-  const prevClose = meta.previousClose ?? meta.chartPreviousClose ?? null;
+
+  // 不要相信 meta.previousClose / meta.chartPreviousClose：用 range=5d 這種「範圍」
+  // 參數請求時，Yahoo 常常沒回傳 previousClose，退回用的 chartPreviousClose 實際上
+  // 等於「這次回傳範圍裡最舊一根 K 棒」的收盤價，不是真正的前一交易日收盤——範圍
+  // 內實際涵蓋幾個交易日又會因為假日、週末浮動，遇到連假時差距可以拉到一整週。
+  // 改成直接從日K收盤價陣列本身取值：陣列最後一筆永遠對應「當前這個交易日」
+  // （不管現在是盤中即時價、已收盤，還是假日沿用最後一次收盤），倒數第二筆就是
+  // 真正的前一交易日收盤，這個相對位置不受 API 實際回傳幾天影響，跟
+  // fetch-history.mjs 本來就在用、且已驗證過沒問題的做法一致。
+  const closes = result.indicators?.quote?.[0]?.close || [];
+  const validCloses = closes.filter((c) => c != null);
+  const prevClose =
+    validCloses.length >= 2
+      ? validCloses[validCloses.length - 2]
+      : meta.previousClose ?? meta.chartPreviousClose ?? null; // 保底：只有一天資料時才退回原本邏輯
+
   const volumes = result.indicators?.quote?.[0]?.volume || [];
   const lastVolume = [...volumes].reverse().find((v) => v != null) ?? null;
 
