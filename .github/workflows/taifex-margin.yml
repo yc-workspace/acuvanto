@@ -13,6 +13,14 @@ on:
 permissions:
   contents: write   # 需要這個權限才能把抓到的 JSON 檔案 commit 回這個 repo
 
+# 跟 fetch-quotes.yml / fetch-futures-quote.yml 一樣補上 concurrency group：
+# 避免「排程觸發」跟「手動按 workflow_dispatch 測試」重疊，或前一次 runner
+# 排隊延遲還沒跑完、下一次又被觸發，導致同一支 workflow 有兩個 job 同時
+# commit + push 同一個 data/margin.json，彼此在 updatedAt 那一行打架。
+concurrency:
+  group: taifex-margin
+  cancel-in-progress: true
+
 jobs:
   fetch-margin:
     runs-on: ubuntu-latest
@@ -33,7 +41,11 @@ jobs:
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          # 只加這支 workflow 實際負責的檔案，不要用 git add data/ 整包加進去：
+          # 範圍越大，commit 的 diff 越大，之後 rebase 時衝突面也越大，也避免
+          # 不小心把其他 workflow（quotes / futures-quote / history）尚未 commit
+          # 的變動一起夾帶進來。
+          git add data/margin.json data/raw/
           if git diff --quiet --cached; then
             echo "沒有變化，不需要 commit。"
             exit 0
