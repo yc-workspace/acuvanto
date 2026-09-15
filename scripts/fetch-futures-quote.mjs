@@ -23,9 +23,9 @@
 // 符合這個專案「零依賴」的原則。若 Yahoo 改版導致抓不到，這支腳本會直接失敗並印出
 // 錯誤訊息，GitHub Actions 那次執行會顯示紅色 X，不會靜默寫入錯的資料。
 
-import { writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { BROWSER_USER_AGENT } from "./yahoo-common.mjs";
+import { readPrevJson, contentUnchanged, writeJsonFile } from "./json-write-utils.mjs";
 
 const QUOTE_URL = "https://tw.stock.yahoo.com/future/WTX&";
 const OUTPUT_PATH = path.join(process.cwd(), "data", "futures_quote.json");
@@ -113,21 +113,37 @@ async function main() {
   const changePercent =
     prevClose !== 0 ? Math.round((change / prevClose) * 10000) / 100 : null;
 
-  const payload = {
+  const prevPayload = await readPrevJson(OUTPUT_PATH);
+  const draftPayload = {
     symbol: "WTX",
     price,
     prevClose,
     change,
     changePercent,
-    // 優先用網站上抓到的「收盤/一般 | yyyy/mm/dd hh:mm 更新」時間；
-    // 抓不到的話才退回用這次程式執行的當下時間（會跟畫面上的台北時間對不太準，
-    // 但至少不會讓整支腳本失敗）。
-    updatedAt: scrapedUpdatedAt ?? taipeiNowString(),
+    updatedAt: null,
   };
 
-  await mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
-  await writeFile(OUTPUT_PATH, JSON.stringify(payload, null, 2) + "\n", "utf8");
-  console.log("已寫入 data/futures_quote.json：", payload);
+  // 內容（成交價／昨收／漲跌／漲跌%）跟上一次完全一樣：代表這次抓到的其實
+  // 跟上次沒兩樣（可能是 Yahoo 那頁還沒換下一筆報價，或剛好連兩次成交價
+  // 相同）。這種情況沿用舊的 updatedAt，不去蓋新的——不管這次有沒有成功
+  // 抓到「yyyy/mm/dd hh:mm 更新」這段文字都一樣，避免「內容明明沒變，只因為
+  // 退回用現在時間當 updatedAt」而產生不必要的 commit。
+  const unchanged = contentUnchanged(draftPayload, prevPayload);
+  const payload = {
+    ...draftPayload,
+    // 內容有變化才需要決定新的 updatedAt：優先用網站上抓到的
+    // 「收盤/一般 | yyyy/mm/dd hh:mm 更新」時間；抓不到的話才退回用這次程式
+    // 執行的當下時間（會跟畫面上的台北時間對不太準，但至少不會讓整支腳本失敗）。
+    updatedAt: unchanged ? prevPayload.updatedAt : scrapedUpdatedAt ?? taipeiNowString(),
+  };
+
+  await writeJsonFile(OUTPUT_PATH, payload);
+  console.log(
+    unchanged
+      ? "台指期貨報價跟上一次完全相同，沿用原本的 updatedAt。"
+      : "台指期貨報價有變化，已寫入 data/futures_quote.json：",
+    payload
+  );
 }
 
 function taipeiNowString() {
