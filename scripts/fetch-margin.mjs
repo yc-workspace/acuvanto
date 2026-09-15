@@ -17,6 +17,7 @@
 
 import { writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
+import { readPrevJson, contentUnchanged, writeJsonFile } from "./json-write-utils.mjs";
 
 const BASE = "https://openapi.taifex.com.tw/v1";
 
@@ -166,8 +167,13 @@ async function main() {
     if (info.maintenanceMargin != null) maintenanceMargin[code] = info.maintenanceMargin;
   }
 
-  const marginJson = {
-    updatedAt: new Date().toISOString(),
+  const marginPath = path.join(outDir, "margin.json");
+  const prevMarginJson = await readPrevJson(marginPath);
+
+  const draftMarginJson = {
+    // updatedAt 先留一個佔位值，下面比對完內容有沒有變之後才決定要不要蓋新的，
+    // 這裡的值本身不重要（contentUnchanged 比對時一律會先把這個欄位拿掉）。
+    updatedAt: null,
     source: "TAIFEX OpenAPI",
     // 目前 App 期貨分頁在用的欄位（股價指數類：大台 TX / 小台 MTX / 微台 TMF）
     margin,
@@ -186,9 +192,23 @@ async function main() {
     fetchErrors: Object.keys(errors).length ? errors : undefined,
   };
 
-  await writeFile(path.join(outDir, "margin.json"), JSON.stringify(marginJson, null, 2), "utf-8");
+  // 內容（扣掉 updatedAt）跟上一次完全一樣：代表這次抓到的保證金資料其實
+  // 沒有變化，沿用舊的 updatedAt、原封不動寫回跟上次一樣的內容，這樣 git
+  // 才會如實判定「這個檔案這次沒有變化」，workflow 就會跳過這次 commit。
+  const unchanged = contentUnchanged(draftMarginJson, prevMarginJson);
+  const marginJson = {
+    ...draftMarginJson,
+    updatedAt: unchanged ? prevMarginJson.updatedAt : new Date().toISOString(),
+  };
+
+  await writeJsonFile(marginPath, marginJson);
 
   console.log("---");
+  if (unchanged) {
+    console.log("保證金內容跟上一次抓到的完全相同，沿用原本的 updatedAt，不產生新的變化。");
+  } else {
+    console.log("保證金內容跟上一次不同（或這是第一次執行），已蓋上新的 updatedAt。");
+  }
   console.log("已產生 data/margin.json，股價指數類（TX/MTX/TMF）比對結果：", JSON.stringify({ margin, maintenanceMargin }, null, 2));
 
   if (Object.keys(margin).length === 0) {
