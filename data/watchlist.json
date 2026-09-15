@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:08:53.703Z",
+  "updatedAt": "2026-09-15T02:10:00.836Z",
   "tickers": [
     {
       "ticker": "2330.TW",
@@ -66,8 +66,7 @@
       "currency": "USD",
       "market": "US",
       "sources": [
-        "watchlist",
-        "holding"
+        "watchlist"
       ]
     },
     {
