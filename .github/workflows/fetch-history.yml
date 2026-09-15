@@ -13,6 +13,18 @@ on:
 permissions:
   contents: write
 
+# 跟 fetch-quotes.yml / fetch-futures-quote.yml 一樣補上 concurrency group：
+# 防止這支 workflow 自己的兩次排程（05:00 / 17:00）因為 runner 延遲而重疊執行。
+# 注意：這個 group 管不到 fetch-quotes.yml 在「觀察清單有異動」時內嵌呼叫的
+# fetch-history.mjs——那個 step 屬於 fetch-quotes 這個 workflow 自己的
+# concurrency group，兩支 workflow 的 group 不會互相排隊。這個殘餘的小機率
+# 重疊（次數很少：只有清單異動時才觸發）目前先不特別處理，維持既有的
+# git pull --rebase + retry 機制去吸收，之後如果真的常常在這裡踩到才需要
+# 進一步處理。
+concurrency:
+  group: fetch-history
+  cancel-in-progress: false
+
 jobs:
   fetch-history:
     runs-on: ubuntu-latest
