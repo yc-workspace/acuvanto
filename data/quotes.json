@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-15T06:56:58.290Z",
-  "sourceWatchlistUpdatedAt": "2026-09-15T02:36:00.575Z",
+  "updatedAt": "2026-09-15T07:48:24.854Z",
+  "sourceWatchlistUpdatedAt": "2026-09-15T07:09:36.499Z",
   "quotes": {
     "2330.TW": {
       "price": 2385,
@@ -112,5 +112,8 @@
       "asOf": "2026-09-14T20:00:01.000Z",
       "yahooSymbol": "IBIT"
     }
+  },
+  "fetchErrors": {
+    "^TWII": "HTTP 404"
   }
 }
