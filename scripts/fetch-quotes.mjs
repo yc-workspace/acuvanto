@@ -6,8 +6,9 @@
 // 這支工具支援 BTC 等全年無休的標的，時段限制在 2026 年已經拿掉了）。
 // FORCE_FETCH / listChanged 只影響 log 訊息內容，不影響「要不要抓」。
 
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { mkdir } from "node:fs/promises";
 import { loadWatchlist, toYahooSymbol, YAHOO_HEADERS } from "./yahoo-common.mjs";
+import { readPrevJson, contentUnchanged, writeJsonFile } from "./json-write-utils.mjs";
 
 async function fetchQuote(symbol) {
   const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(
@@ -58,16 +59,6 @@ async function fetchQuote(symbol) {
   };
 }
 
-// 讀取上一次寫出的 data/quotes.json，用來比對 watchlist 的 updatedAt 有沒有變過
-async function readPrevQuotes() {
-  try {
-    const raw = await readFile("data/quotes.json", "utf-8");
-    return JSON.parse(raw);
-  } catch {
-    return null;
-  }
-}
-
 // 寫一行給 GitHub Actions 的 workflow 讀（是否要順便觸發歷史K線補抓）
 async function setGithubOutput(name, value) {
   const file = process.env.GITHUB_OUTPUT;
@@ -81,7 +72,7 @@ async function main() {
   const watchlist = await loadWatchlist();
   const tickers = watchlist.tickers;
 
-  const prevQuotes = await readPrevQuotes();
+  const prevQuotes = await readPrevJson("data/quotes.json");
   const listChanged =
     watchlist.updatedAt != null &&
     watchlist.updatedAt !== prevQuotes?.sourceWatchlistUpdatedAt;
@@ -98,20 +89,17 @@ async function main() {
 
   if (!tickers.length) {
     console.log("watchlist 是空的（data/watchlist.json 還不存在，或裡面沒有任何 ticker），先寫一個空的 data/quotes.json 佔位。");
-    await writeFile(
-      "data/quotes.json",
-      JSON.stringify(
-        {
-          updatedAt: new Date().toISOString(),
-          sourceWatchlistUpdatedAt: watchlist.updatedAt,
-          quotes: {},
-          note: "尚無 ticker，請先在 wealth-ledger 裡新增觀察清單或持股交易",
-        },
-        null,
-        2
-      ),
-      "utf-8"
-    );
+    const draftEmpty = {
+      updatedAt: null,
+      sourceWatchlistUpdatedAt: watchlist.updatedAt,
+      quotes: {},
+      note: "尚無 ticker，請先在 wealth-ledger 裡新增觀察清單或持股交易",
+    };
+    const emptyUnchanged = contentUnchanged(draftEmpty, prevQuotes);
+    await writeJsonFile("data/quotes.json", {
+      ...draftEmpty,
+      updatedAt: emptyUnchanged ? prevQuotes.updatedAt : new Date().toISOString(),
+    });
     await setGithubOutput("list_changed", String(listChanged));
     return;
   }
@@ -133,14 +121,23 @@ async function main() {
   }
 
   await mkdir("data", { recursive: true });
-  const out = {
-    updatedAt: new Date().toISOString(),
+  const draftOut = {
+    updatedAt: null,
     sourceWatchlistUpdatedAt: watchlist.updatedAt,
     quotes,
     fetchErrors: Object.keys(errors).length ? errors : undefined,
   };
-  await writeFile("data/quotes.json", JSON.stringify(out, null, 2), "utf-8");
-  console.log(`已寫入 data/quotes.json，共 ${Object.keys(quotes).length} 檔成功。`);
+  const quotesUnchanged = contentUnchanged(draftOut, prevQuotes);
+  const out = {
+    ...draftOut,
+    updatedAt: quotesUnchanged ? prevQuotes.updatedAt : new Date().toISOString(),
+  };
+  await writeJsonFile("data/quotes.json", out);
+  if (quotesUnchanged) {
+    console.log(`data/quotes.json 內容跟上一次完全相同（共 ${Object.keys(quotes).length} 檔），沿用原本的 updatedAt。`);
+  } else {
+    console.log(`已寫入 data/quotes.json，共 ${Object.keys(quotes).length} 檔成功，內容有變化，已蓋上新的 updatedAt。`);
+  }
   await setGithubOutput("list_changed", String(listChanged));
 }
 
