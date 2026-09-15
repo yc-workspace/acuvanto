@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:09:36.499Z",
+  "updatedAt": "2026-09-15T07:53:28.819Z",
   "tickers": [
     {
       "ticker": "2330.TW",
@@ -81,15 +81,6 @@
     {
       "ticker": "00662.TW",
       "name": "富邦 NASDAQ",
-      "currency": "TWD",
-      "market": "TW",
-      "sources": [
-        "watchlist"
-      ]
-    },
-    {
-      "ticker": "^TWII",
-      "name": "台灣加權指數",
       "currency": "TWD",
       "market": "TW",
       "sources": [
