@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:26:42.978Z",
+  "updatedAt": "2026-09-15T02:29:20.533Z",
   "tickers": [
     {
       "ticker": "2330.TW",
@@ -85,15 +85,6 @@
       "market": "TW",
       "sources": [
         "watchlist"
-      ]
-    },
-    {
-      "ticker": "00923.TW",
-      "name": "群益台 ESG 低碳 50",
-      "currency": "TWD",
-      "market": "TW",
-      "sources": [
-        "holding"
       ]
     },
     {
