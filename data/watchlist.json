@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:54:11.327Z",
+  "updatedAt": "2026-09-17T08:21:03.888Z",
   "tickers": [
     {
       "ticker": "2330.TW",
@@ -8,7 +8,8 @@
       "market": "TW",
       "sources": [
         "watchlist",
-        "holding"
+        "holding",
+        "rebalance-target"
       ]
     },
     {
@@ -18,7 +19,8 @@
       "market": "TW",
       "sources": [
         "watchlist",
-        "holding"
+        "holding",
+        "rebalance-target"
       ]
     },
     {
@@ -57,7 +59,8 @@
       "market": "US",
       "sources": [
         "watchlist",
-        "holding"
+        "holding",
+        "rebalance-target"
       ]
     },
     {
@@ -84,7 +87,8 @@
       "currency": "TWD",
       "market": "TW",
       "sources": [
-        "watchlist"
+        "watchlist",
+        "rebalance-target"
       ]
     },
     {
@@ -93,7 +97,8 @@
       "currency": "USD",
       "market": "US",
       "sources": [
-        "holding"
+        "holding",
+        "rebalance-target"
       ]
     }
   ]
