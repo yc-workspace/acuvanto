@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T01:51:34.951Z",
+  "updatedAt": "2026-09-21T01:52:48.286Z",
   "tickers": [
     {
       "ticker": "2330.TW",
@@ -88,6 +88,7 @@
       "market": "TW",
       "sources": [
         "watchlist",
+        "holding",
         "rebalance-target"
       ]
     },
