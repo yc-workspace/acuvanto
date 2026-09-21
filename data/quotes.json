@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T01:52:27.602Z",
+  "updatedAt": "2026-09-21T01:52:54.351Z",
   "sourceWatchlistUpdatedAt": "2026-09-21T01:51:34.951Z",
   "quotes": {
     "2330.TW": {
@@ -7,21 +7,21 @@
       "prevClose": 2460,
       "change": 20,
       "changePct": 0.8130081300813009,
-      "volume": 5083136,
+      "volume": 5121239,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-21T01:32:22.000Z",
+      "asOf": "2026-09-21T01:32:49.000Z",
       "yahooSymbol": "2330.TW"
     },
     "0052.TW": {
-      "price": 64.5,
+      "price": 64.6,
       "prevClose": 63.79999923706055,
-      "change": 0.7000007629394531,
-      "changePct": 1.0971798923358487,
-      "volume": 6153033,
+      "change": 0.8000007629394474,
+      "changePct": 1.253919706122407,
+      "volume": 6199272,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-21T01:32:22.000Z",
+      "asOf": "2026-09-21T01:32:46.000Z",
       "yahooSymbol": "0052.TW"
     },
     "00635U.TW": {
@@ -29,21 +29,21 @@
       "prevClose": 45.06999969482422,
       "change": 0.08000030517577983,
       "changePct": 0.17750234239510537,
-      "volume": 777413,
+      "volume": 780763,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-21T01:32:06.000Z",
+      "asOf": "2026-09-21T01:32:28.000Z",
       "yahooSymbol": "00635U.TW"
     },
     "00708L.TW": {
-      "price": 79.65,
+      "price": 79.6,
       "prevClose": 79.44999694824219,
-      "change": 0.20000305175781818,
-      "changePct": 0.2517344989806739,
-      "volume": 753749,
+      "change": 0.15000305175780682,
+      "changePct": 0.1888018345117452,
+      "volume": 769921,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-21T01:31:08.000Z",
+      "asOf": "2026-09-21T01:32:44.000Z",
       "yahooSymbol": "00708L.TW"
     },
     "QQQM": {
@@ -95,10 +95,10 @@
       "prevClose": 120.5,
       "change": 1.1500000000000057,
       "changePct": 0.9543568464730338,
-      "volume": 1545648,
+      "volume": 1547899,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-09-21T01:32:19.000Z",
+      "asOf": "2026-09-21T01:32:39.000Z",
       "yahooSymbol": "00662.TW"
     },
     "IBIT": {
