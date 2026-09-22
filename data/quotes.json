@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-22T17:45:10.508Z",
+  "updatedAt": "2026-09-22T20:29:48.160Z",
   "sourceWatchlistUpdatedAt": "2026-09-22T00:37:10.009Z",
   "quotes": {
     "2330.TW": {
       "price": 2460,
-      "prevClose": 2460,
-      "change": 0,
-      "changePct": 0,
-      "volume": 20827187,
+      "prevClose": 2480,
+      "change": -20,
+      "changePct": -0.8064516129032258,
+      "volume": 18940740,
       "currency": "TWD",
       "exchangeName": "TAI",
       "asOf": "2026-09-22T05:30:10.000Z",
@@ -47,47 +47,47 @@
       "yahooSymbol": "00708L.TW"
     },
     "QQQM": {
-      "price": 306.93,
+      "price": 307.78,
       "prevClose": 305.2699890136719,
-      "change": 1.6600109863281318,
-      "changePct": 0.5437845337144446,
-      "volume": 2277708,
+      "change": 2.5100109863280977,
+      "changePct": 0.8222265786551602,
+      "volume": 3869789,
       "currency": "USD",
       "exchangeName": "NGM",
-      "asOf": "2026-09-22T17:45:02.000Z",
+      "asOf": "2026-09-22T20:00:00.000Z",
       "yahooSymbol": "QQQM"
     },
     "IAUM": {
-      "price": 43.231,
+      "price": 43.49,
       "prevClose": 43.29999923706055,
-      "change": -0.06899923706054523,
-      "changePct": -0.15935158955265905,
-      "volume": 1081101,
+      "change": 0.19000076293945511,
+      "changePct": 0.4388008459289605,
+      "volume": 1999216,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-09-22T17:44:08.000Z",
+      "asOf": "2026-09-22T20:00:00.000Z",
       "yahooSymbol": "IAUM"
     },
     "IYW": {
-      "price": 265.633,
+      "price": 265.99,
       "prevClose": 264.4599914550781,
-      "change": 1.1730085449218564,
-      "changePct": 0.4435485830835424,
-      "volume": 298263,
+      "change": 1.530008544921884,
+      "changePct": 0.5785406467358883,
+      "volume": 621327,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-09-22T17:44:11.000Z",
+      "asOf": "2026-09-22T20:00:00.000Z",
       "yahooSymbol": "IYW"
     },
     "SCHG": {
-      "price": 36.325,
+      "price": 36.32,
       "prevClose": 36.27000045776367,
-      "change": 0.05499954223633097,
-      "changePct": 0.15163921020728358,
-      "volume": 5763645,
+      "change": 0.04999954223632841,
+      "changePct": 0.13785371272479788,
+      "volume": 8312109,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-09-22T17:45:08.000Z",
+      "asOf": "2026-09-22T20:00:00.000Z",
       "yahooSymbol": "SCHG"
     },
     "00662.TW": {
@@ -102,14 +102,14 @@
       "yahooSymbol": "00662.TW"
     },
     "IBIT": {
-      "price": 48.99,
+      "price": 48.83,
       "prevClose": 49.0099983215332,
-      "change": -0.019998321533201135,
-      "changePct": -0.04080457502161269,
-      "volume": 30337769,
+      "change": -0.17999832153320483,
+      "changePct": -0.3672685731436154,
+      "volume": 42765499,
       "currency": "USD",
       "exchangeName": "NGM",
-      "asOf": "2026-09-22T17:45:05.000Z",
+      "asOf": "2026-09-22T20:00:01.000Z",
       "yahooSymbol": "IBIT"
     }
   }
