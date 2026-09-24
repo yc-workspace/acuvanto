@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:19:25.419Z",
+  "updatedAt": "2026-09-24T22:31:10.943Z",
   "sourceWatchlistUpdatedAt": "2026-09-22T00:37:10.009Z",
   "quotes": {
     "2330.TW": {
@@ -15,9 +15,9 @@
     },
     "0052.TW": {
       "price": 65.4,
-      "prevClose": 64.55000305175781,
-      "change": 0.8499969482421932,
-      "changePct": 1.316803885447758,
+      "prevClose": 64.75,
+      "change": 0.6500000000000057,
+      "changePct": 1.0038610038610127,
       "volume": 9997602,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -26,9 +26,9 @@
     },
     "00635U.TW": {
       "price": 44.26,
-      "prevClose": 44.95000076293945,
-      "change": -0.6900007629394551,
-      "changePct": -1.5350406033993875,
+      "prevClose": 44.689998626708984,
+      "change": -0.42999862670898636,
+      "changePct": -0.9621808904061984,
       "volume": 3022093,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -37,9 +37,9 @@
     },
     "00708L.TW": {
       "price": 76.55,
-      "prevClose": 79.0999984741211,
-      "change": -2.5499984741210966,
-      "changePct": -3.223765516197035,
+      "prevClose": 78.05000305175781,
+      "change": -1.5000030517578153,
+      "changePct": -1.921848806031575,
       "volume": 5342811,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -47,36 +47,36 @@
       "yahooSymbol": "00708L.TW"
     },
     "QQQM": {
-      "price": 305.08,
+      "price": 305.14,
       "prevClose": 305.1400146484375,
-      "change": -0.060014648437515916,
-      "changePct": -0.019667905078480413,
-      "volume": 1678958,
+      "change": -0.00001464843751364242,
+      "changePct": -0.000004800562630410633,
+      "volume": 2037051,
       "currency": "USD",
       "exchangeName": "NGM",
-      "asOf": "2026-09-24T19:19:16.000Z",
+      "asOf": "2026-09-24T20:00:00.000Z",
       "yahooSymbol": "QQQM"
     },
     "IAUM": {
-      "price": 42.54,
+      "price": 42.59,
       "prevClose": 42.68000030517578,
-      "change": -0.1400003051757821,
-      "changePct": -0.32802320565776644,
-      "volume": 2118171,
+      "change": -0.09000030517577784,
+      "changePct": -0.21087231614865654,
+      "volume": 2750529,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-09-24T19:19:13.000Z",
+      "asOf": "2026-09-24T20:00:00.000Z",
       "yahooSymbol": "IAUM"
     },
     "IYW": {
-      "price": 264.36,
+      "price": 264.31,
       "prevClose": 264.5199890136719,
-      "change": -0.15998901367186136,
-      "changePct": -0.060482768908474524,
-      "volume": 482610,
+      "change": -0.20998901367187273,
+      "changePct": -0.07938493210092312,
+      "volume": 634097,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-09-24T19:19:14.000Z",
+      "asOf": "2026-09-24T20:00:00.000Z",
       "yahooSymbol": "IYW"
     },
     "SCHG": {
@@ -84,17 +84,17 @@
       "prevClose": 36,
       "change": 0.060000000000002274,
       "changePct": 0.16666666666667299,
-      "volume": 8372197,
+      "volume": 9327258,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-09-24T19:19:22.000Z",
+      "asOf": "2026-09-24T20:00:00.000Z",
       "yahooSymbol": "SCHG"
     },
     "00662.TW": {
       "price": 124.25,
-      "prevClose": 121.5999984741211,
-      "change": 2.6500015258789062,
-      "changePct": 2.1792775979704304,
+      "prevClose": 124.05000305175781,
+      "change": 0.1999969482421875,
+      "changePct": 0.1612228483047615,
       "volume": 2715302,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -102,14 +102,14 @@
       "yahooSymbol": "00662.TW"
     },
     "IBIT": {
-      "price": 47.865,
+      "price": 47.81,
       "prevClose": 47.880001068115234,
-      "change": -0.015001068115232385,
-      "changePct": -0.031330550920187966,
-      "volume": 33475053,
+      "change": -0.0700010681152321,
+      "changePct": -0.14620105796498817,
+      "volume": 37915318,
       "currency": "USD",
       "exchangeName": "NGM",
-      "asOf": "2026-09-24T19:19:18.000Z",
+      "asOf": "2026-09-24T20:00:01.000Z",
       "yahooSymbol": "IBIT"
     }
   }
