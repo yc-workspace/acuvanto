@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T22:31:10.943Z",
+  "updatedAt": "2026-09-25T00:44:06.966Z",
   "sourceWatchlistUpdatedAt": "2026-09-22T00:37:10.009Z",
   "quotes": {
     "2330.TW": {
@@ -48,9 +48,9 @@
     },
     "QQQM": {
       "price": 305.14,
-      "prevClose": 305.1400146484375,
-      "change": -0.00001464843751364242,
-      "changePct": -0.000004800562630410633,
+      "prevClose": 307.7799987792969,
+      "change": -2.6399987792968886,
+      "changePct": -0.8577551464577076,
       "volume": 2037051,
       "currency": "USD",
       "exchangeName": "NGM",
@@ -59,9 +59,9 @@
     },
     "IAUM": {
       "price": 42.59,
-      "prevClose": 42.68000030517578,
-      "change": -0.09000030517577784,
-      "changePct": -0.21087231614865654,
+      "prevClose": 43.29999923706055,
+      "change": -0.7099992370605435,
+      "changePct": -1.6397211306480899,
       "volume": 2750529,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -70,9 +70,9 @@
     },
     "IYW": {
       "price": 264.31,
-      "prevClose": 264.5199890136719,
-      "change": -0.20998901367187273,
-      "changePct": -0.07938493210092312,
+      "prevClose": 264.4599914550781,
+      "change": -0.14999145507812273,
+      "changePct": -0.056716123392751706,
       "volume": 634097,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -81,9 +81,9 @@
     },
     "SCHG": {
       "price": 36.06,
-      "prevClose": 36,
-      "change": 0.060000000000002274,
-      "changePct": 0.16666666666667299,
+      "prevClose": 36.27000045776367,
+      "change": -0.2100004577636696,
+      "changePct": -0.5789921563640856,
       "volume": 9327258,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -103,9 +103,9 @@
     },
     "IBIT": {
       "price": 47.81,
-      "prevClose": 47.880001068115234,
-      "change": -0.0700010681152321,
-      "changePct": -0.14620105796498817,
+      "prevClose": 48.83000183105469,
+      "change": -1.0200018310546852,
+      "changePct": -2.0888834585420577,
       "volume": 37915318,
       "currency": "USD",
       "exchangeName": "NGM",
