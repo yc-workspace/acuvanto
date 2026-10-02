@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-02T02:17:35.482Z",
+  "updatedAt": "2026-10-02T02:21:23.132Z",
   "sourceWatchlistUpdatedAt": "2026-09-22T00:37:10.009Z",
   "quotes": {
     "2330.TW": {
-      "price": 2500,
+      "price": 2495,
       "prevClose": 2510,
-      "change": -10,
-      "changePct": -0.398406374501992,
-      "volume": 5382975,
+      "change": -15,
+      "changePct": -0.5976095617529881,
+      "volume": 5433997,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-02T01:57:18.000Z",
+      "asOf": "2026-10-02T02:01:12.000Z",
       "yahooSymbol": "2330.TW"
     },
     "0052.TW": {
@@ -18,10 +18,10 @@
       "prevClose": 65.44999694824219,
       "change": 0.4000030517578068,
       "changePct": 0.6111582435582524,
-      "volume": 6891420,
+      "volume": 7055230,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-02T01:57:27.000Z",
+      "asOf": "2026-10-02T02:01:17.000Z",
       "yahooSymbol": "0052.TW"
     },
     "00635U.TW": {
@@ -29,10 +29,10 @@
       "prevClose": 43.040000915527344,
       "change": -0.29000091552734375,
       "changePct": -0.6737939343833086,
-      "volume": 690483,
+      "volume": 705473,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-02T01:57:24.000Z",
+      "asOf": "2026-10-02T02:00:30.000Z",
       "yahooSymbol": "00635U.TW"
     },
     "00708L.TW": {
@@ -40,10 +40,10 @@
       "prevClose": 72.19999694824219,
       "change": -0.8499969482421932,
       "changePct": -1.1772811415096431,
-      "volume": 1437941,
+      "volume": 1448936,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-02T01:57:14.000Z",
+      "asOf": "2026-10-02T02:00:56.000Z",
       "yahooSymbol": "00708L.TW"
     },
     "QQQM": {
@@ -95,10 +95,10 @@
       "prevClose": 124.19999694824219,
       "change": 1.2500030517578153,
       "changePct": 1.0064437056940738,
-      "volume": 1755432,
+      "volume": 1776818,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-02T01:57:10.000Z",
+      "asOf": "2026-10-02T02:00:51.000Z",
       "yahooSymbol": "00662.TW"
     },
     "IBIT": {
