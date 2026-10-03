@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:34:07.770Z",
+  "updatedAt": "2026-10-03T00:11:42.450Z",
   "sourceWatchlistUpdatedAt": "2026-09-22T00:37:10.009Z",
   "quotes": {
     "2330.TW": {
@@ -48,9 +48,9 @@
     },
     "QQQM": {
       "price": 308.69,
-      "prevClose": 305.57000732421875,
-      "change": 3.1199926757812477,
-      "changePct": 1.0210402202434887,
+      "prevClose": 304.6400146484375,
+      "change": 4.049985351562498,
+      "changePct": 1.3294331528431307,
       "volume": 3010790,
       "currency": "USD",
       "exchangeName": "NGM",
@@ -59,9 +59,9 @@
     },
     "IAUM": {
       "price": 41.33,
-      "prevClose": 41.59000015258789,
-      "change": -0.26000015258789233,
-      "changePct": -0.6251506411011978,
+      "prevClose": 41.41999816894531,
+      "change": -0.0899981689453142,
+      "changePct": -0.21728192400739996,
       "volume": 3227494,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -70,9 +70,9 @@
     },
     "IYW": {
       "price": 269.69,
-      "prevClose": 266.8299865722656,
-      "change": 2.8600134277343727,
-      "changePct": 1.0718485821157115,
+      "prevClose": 264.8999938964844,
+      "change": 4.790006103515623,
+      "changePct": 1.8082318663198704,
       "volume": 494149,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -81,9 +81,9 @@
     },
     "SCHG": {
       "price": 36.34,
-      "prevClose": 36,
-      "change": 0.3400000000000034,
-      "changePct": 0.944444444444454,
+      "prevClose": 35.93000030517578,
+      "change": 0.40999969482422216,
+      "changePct": 1.1411068503808528,
       "volume": 8240283,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -103,9 +103,9 @@
     },
     "IBIT": {
       "price": 47.73,
-      "prevClose": 47.959999084472656,
-      "change": -0.22999908447265938,
-      "changePct": -0.4795644054695634,
+      "prevClose": 47.34000015258789,
+      "change": 0.38999984741210625,
+      "changePct": 0.8238273049325001,
       "volume": 48500051,
       "currency": "USD",
       "exchangeName": "NGM",
