@@ -1,7 +1,69 @@
 {
   "ticker": "2330.TW",
   "yahooSymbol": "2330.TW",
-  "updatedAt": "2026-10-05T04:00:15.538Z",
+  "updatedAt": "2026-10-05T05:10:28.137Z",
+  "splits": [
+    {
+      "date": "2000-05-15",
+      "numerator": 128,
+      "denominator": 100,
+      "ratio": 1.28
+    },
+    {
+      "date": "2001-06-26",
+      "numerator": 140,
+      "denominator": 100,
+      "ratio": 1.4
+    },
+    {
+      "date": "2002-06-19",
+      "numerator": 110,
+      "denominator": 100,
+      "ratio": 1.1
+    },
+    {
+      "date": "2003-07-07",
+      "numerator": 108,
+      "denominator": 100,
+      "ratio": 1.08
+    },
+    {
+      "date": "2004-06-14",
+      "numerator": 114.0867,
+      "denominator": 100,
+      "ratio": 1.1408669999999999
+    },
+    {
+      "date": "2005-06-13",
+      "numerator": 105,
+      "denominator": 100,
+      "ratio": 1.05
+    },
+    {
+      "date": "2006-06-20",
+      "numerator": 103,
+      "denominator": 100,
+      "ratio": 1.03
+    },
+    {
+      "date": "2007-06-08",
+      "numerator": 100.4999,
+      "denominator": 100,
+      "ratio": 1.004999
+    },
+    {
+      "date": "2008-07-16",
+      "numerator": 100.5042,
+      "denominator": 100,
+      "ratio": 1.005042
+    },
+    {
+      "date": "2009-07-15",
+      "numerator": 1.005,
+      "denominator": 1,
+      "ratio": 1.005
+    }
+  ],
   "rows": [
     {
       "date": "2000-01-04",
@@ -53216,8 +53278,8 @@
       "open": 2550,
       "high": 2580,
       "low": 2545,
-      "close": 2570,
-      "volume": 17665842
+      "close": 2565,
+      "volume": 20228090
     }
   ]
 }

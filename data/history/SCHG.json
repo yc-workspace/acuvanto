@@ -1,7 +1,21 @@
 {
   "ticker": "SCHG",
   "yahooSymbol": "SCHG",
-  "updatedAt": "2026-10-05T04:00:18.372Z",
+  "updatedAt": "2026-10-05T05:10:31.522Z",
+  "splits": [
+    {
+      "date": "2022-03-11",
+      "numerator": 2,
+      "denominator": 1,
+      "ratio": 2
+    },
+    {
+      "date": "2024-10-11",
+      "numerator": 4,
+      "denominator": 1,
+      "ratio": 4
+    }
+  ],
   "rows": [
     {
       "date": "2010-01-04",

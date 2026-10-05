@@ -1,7 +1,15 @@
 {
   "ticker": "IYW",
   "yahooSymbol": "IYW",
-  "updatedAt": "2026-10-05T04:00:17.931Z",
+  "updatedAt": "2026-10-05T05:10:30.984Z",
+  "splits": [
+    {
+      "date": "2020-12-07",
+      "numerator": 4,
+      "denominator": 1,
+      "ratio": 4
+    }
+  ],
   "rows": [
     {
       "date": "2000-05-19",
