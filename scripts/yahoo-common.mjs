@@ -9,10 +9,17 @@ export async function loadWatchlist() {
     raw = await readFile("data/watchlist.json", "utf-8");
   } catch {
     console.warn("找不到 data/watchlist.json（可能你的 wealth-ledger 工具還沒同步過），略過。");
-    return { updatedAt: null, tickers: [] };
+    return { updatedAt: null, tickers: [], currencies: [] };
   }
   const json = JSON.parse(raw);
-  return { updatedAt: json.updatedAt || null, tickers: json.tickers || [] };
+  return {
+    updatedAt: json.updatedAt || null,
+    tickers: json.tickers || [],
+    // 選填：App 同步時可以另外附上「資料庫裡用到的幣別清單」，這樣即使某個外幣只有
+    // 現金帳戶、沒有任何該幣別的股票，也會抓到它的匯率。沒有這個欄位時，
+    // 就只從 tickers 裡每檔的 currency 推導。
+    currencies: json.currencies || [],
+  };
 }
 
 // 舊有介面：只要 tickers 陣列（保留給還在用這個介面的腳本）
@@ -29,6 +36,25 @@ export function toYahooSymbol(item) {
   if (t.includes(".")) return t; // 使用者已經自己打了完整代碼
   if (item.market === "TW" || item.currency === "TWD") return `${t}.TW`;
   return t;
+}
+
+// 從 watchlist 整理出「需要抓匯率的外幣」清單（不含 TWD）。
+// 來源 1：每檔標的的 currency 欄位；來源 2：watchlist.json 選填的 currencies 陣列。
+export function collectForeignCurrencies(watchlist) {
+  const found = new Set();
+  const addCurrency = (value) => {
+    const code = String(value || "").trim().toUpperCase();
+    if (/^[A-Z]{3}$/.test(code) && code !== "TWD") found.add(code);
+  };
+  for (const item of watchlist.tickers || []) addCurrency(item.currency);
+  for (const code of watchlist.currencies || []) addCurrency(code);
+  return [...found].sort();
+}
+
+// Yahoo Finance 的匯率代碼：USDTWD=X 代表「1 美元 = 多少新台幣」，
+// 跟 App 裡「1 外幣 = ? TWD」的匯率方向一致，不需要再取倒數。
+export function toYahooFxSymbol(currency) {
+  return `${currency}TWD=X`;
 }
 
 // 共用的瀏覽器 User-Agent 字串——抓 Yahoo Finance JSON API（YAHOO_HEADERS）
