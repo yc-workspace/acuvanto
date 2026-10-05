@@ -7,7 +7,13 @@
 // FORCE_FETCH / listChanged 只影響 log 訊息內容，不影響「要不要抓」。
 
 import { mkdir } from "node:fs/promises";
-import { loadWatchlist, toYahooSymbol, YAHOO_HEADERS } from "./yahoo-common.mjs";
+import {
+  loadWatchlist,
+  toYahooSymbol,
+  collectForeignCurrencies,
+  toYahooFxSymbol,
+  YAHOO_HEADERS,
+} from "./yahoo-common.mjs";
 import { readPrevJson, contentUnchanged, writeJsonFile } from "./json-write-utils.mjs";
 
 async function fetchQuote(symbol) {
@@ -120,11 +126,38 @@ async function main() {
     await new Promise((r) => setTimeout(r, 300));
   }
 
+  // 外幣即時匯率：跟股票報價同一個來源（Yahoo），App 的「即時匯率」與歷史現值走勢
+  // 的匯率都從同一個來源取，兩邊才不會出現來源不同造成的落差。
+  // 單次抓取失敗時，沿用上一次已知的匯率（asOf 會顯示它的時間，不會被當成最新），
+  // 不讓整個欄位消失而讓 App 退回沒有匯率的狀態。
+  const fxRates = {};
+  for (const currency of collectForeignCurrencies(watchlist)) {
+    const symbol = toYahooFxSymbol(currency);
+    try {
+      console.log(`抓取匯率中：${currency}/TWD → Yahoo symbol ${symbol}`);
+      const fxQuote = await fetchQuote(symbol);
+      if (fxQuote.price == null || !(fxQuote.price > 0)) throw new Error("匯率價格無效");
+      fxRates[currency] = {
+        rate: fxQuote.price,
+        prevClose: fxQuote.prevClose,
+        asOf: fxQuote.asOf,
+        yahooSymbol: symbol,
+      };
+    } catch (err) {
+      console.error(`  ✗ 失敗：${currency} 匯率：${err.message}`);
+      errors[`FX:${currency}`] = String(err.message || err);
+      const previousRate = prevQuotes?.fxRates?.[currency];
+      if (previousRate) fxRates[currency] = previousRate;
+    }
+    await new Promise((r) => setTimeout(r, 300));
+  }
+
   await mkdir("data", { recursive: true });
   const draftOut = {
     updatedAt: null,
     sourceWatchlistUpdatedAt: watchlist.updatedAt,
     quotes,
+    fxRates,
     fetchErrors: Object.keys(errors).length ? errors : undefined,
   };
   const quotesUnchanged = contentUnchanged(draftOut, prevQuotes);
