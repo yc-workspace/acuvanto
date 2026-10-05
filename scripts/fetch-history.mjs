@@ -5,15 +5,25 @@
 // 用 1900 當起點只是確保「不管什麼標的都盡量抓到最早的資料」，不用每檔手動判斷上市日。
 
 import { writeFile, mkdir } from "node:fs/promises";
-import { loadTickers, toYahooSymbol, YAHOO_HEADERS } from "./yahoo-common.mjs";
+import {
+  loadWatchlist,
+  toYahooSymbol,
+  collectForeignCurrencies,
+  toYahooFxSymbol,
+  YAHOO_HEADERS,
+} from "./yahoo-common.mjs";
 
 const PERIOD1 = Math.floor(Date.UTC(1900, 0, 1) / 1000);
 
-async function fetchHistory(symbol) {
+// isFx = true 時抓的是匯率（例如 USDTWD=X）：只保留日期與收盤價，不要成交量與開高低，
+// 檔案小很多；另外匯率日K的時間戳記可能落在前一天的 23:00 UTC（倫敦午夜），
+// 直接取 UTC 日期會差一天，所以加 12 小時再取日期，不管落在 00:00 或前一天 23:00 都歸到正確的那天。
+async function fetchHistory(symbol, { isFx = false } = {}) {
   const period2 = Math.floor(Date.now() / 1000);
+  const eventsParam = isFx ? "" : "&events=div%2Csplits";
   const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(
     symbol
-  )}?period1=${PERIOD1}&period2=${period2}&interval=1d`;
+  )}?period1=${PERIOD1}&period2=${period2}&interval=1d${eventsParam}`;
   const res = await fetch(url, { headers: YAHOO_HEADERS });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const json = await res.json();
@@ -22,16 +32,37 @@ async function fetchHistory(symbol) {
 
   const timestamps = result.timestamp || [];
   const q = result.indicators?.quote?.[0] || {};
-  const rows = timestamps.map((ts, i) => ({
-    date: new Date(ts * 1000).toISOString().slice(0, 10),
-    open: q.open?.[i] ?? null,
-    high: q.high?.[i] ?? null,
-    low: q.low?.[i] ?? null,
-    close: q.close?.[i] ?? null,
-    volume: q.volume?.[i] ?? null,
-  }));
+  const toDateText = (ts) =>
+    new Date((isFx ? ts + 12 * 3600 : ts) * 1000).toISOString().slice(0, 10);
+  const rows = timestamps.map((ts, i) =>
+    isFx
+      ? { date: toDateText(ts), close: q.close?.[i] ?? null }
+      : {
+          date: toDateText(ts),
+          open: q.open?.[i] ?? null,
+          high: q.high?.[i] ?? null,
+          low: q.low?.[i] ?? null,
+          close: q.close?.[i] ?? null,
+          volume: q.volume?.[i] ?? null,
+        }
+  );
+
+  // 分割事件：Yahoo 的 numerator 是「分割後的股數」、denominator 是「分割前的股數」
+  // （7 比 1 分割 → numerator 7、denominator 1、ratio 7）。這裡只是「記錄」Yahoo 回報了什麼，
+  // 不代表歷史收盤價已經還原——有些標的（例如台股 0052）Yahoo 回報了分割事件，
+  // 但歷史收盤價仍是分割前的原值，App 端要拿分割日前後的收盤價比對，才能判斷要不要還原。
+  const splits = Object.values(result.events?.splits || {})
+    .map((event) => ({
+      date: new Date(event.date * 1000).toISOString().slice(0, 10),
+      numerator: Number(event.numerator),
+      denominator: Number(event.denominator),
+    }))
+    .filter((event) => event.numerator > 0 && event.denominator > 0)
+    .map((event) => ({ ...event, ratio: event.numerator / event.denominator }))
+    .sort((a, b) => a.date.localeCompare(b.date));
+
   // 濾掉停牌造成的空值列
-  return rows.filter((r) => r.close != null);
+  return { rows: rows.filter((r) => r.close != null), splits };
 }
 
 // 檔名不能有奇怪字元，把 ticker 轉成安全檔名（. 和大部分符號其實檔名系統都能接受，
@@ -41,7 +72,8 @@ function safeFileName(ticker) {
 }
 
 async function main() {
-  const tickers = await loadTickers();
+  const watchlist = await loadWatchlist();
+  const tickers = watchlist.tickers;
   await mkdir("data/history", { recursive: true });
 
   if (!tickers.length) {
@@ -59,11 +91,12 @@ async function main() {
     const symbol = toYahooSymbol(item);
     try {
       console.log(`抓取歷史K線中：${item.ticker} → Yahoo symbol ${symbol}`);
-      const rows = await fetchHistory(symbol);
+      const { rows, splits } = await fetchHistory(symbol);
       const out = {
         ticker: item.ticker,
         yahooSymbol: symbol,
         updatedAt: new Date().toISOString(),
+        splits,
         rows,
       };
       await writeFile(
@@ -74,6 +107,33 @@ async function main() {
       console.log(`  → 已存檔，共 ${rows.length} 筆日K`);
     } catch (err) {
       console.error(`  ✗ 失敗：${item.ticker}：${err.message}`);
+    }
+    await new Promise((r) => setTimeout(r, 300));
+  }
+
+  // 外幣歷史匯率：存成 data/history/fx/{幣別}.json，每天由排程自動更新，
+  // 不需要使用者開工具。App 的歷史現值走勢用這份資料換算外幣標的，即時匯率則取自
+  // quotes.json 的 fxRates，兩邊都是 Yahoo 的同一組匯率代碼。
+  await mkdir("data/history/fx", { recursive: true });
+  for (const currency of collectForeignCurrencies(watchlist)) {
+    const symbol = toYahooFxSymbol(currency);
+    try {
+      console.log(`抓取歷史匯率中：${currency}/TWD → Yahoo symbol ${symbol}`);
+      const { rows } = await fetchHistory(symbol, { isFx: true });
+      const out = {
+        currency,
+        yahooSymbol: symbol,
+        updatedAt: new Date().toISOString(),
+        rows,
+      };
+      await writeFile(
+        `data/history/fx/${currency}.json`,
+        JSON.stringify(out, null, 2),
+        "utf-8"
+      );
+      console.log(`  → 已存檔，共 ${rows.length} 筆日匯率`);
+    } catch (err) {
+      console.error(`  ✗ 失敗：${currency} 歷史匯率：${err.message}`);
     }
     await new Promise((r) => setTimeout(r, 300));
   }
