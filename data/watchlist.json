@@ -1,5 +1,14 @@
 {
-  "updatedAt": "2026-09-22T00:37:10.009Z",
+  "updatedAt": "2026-10-06T02:49:25.740Z",
+  "currencies": [
+    "AUD",
+    "CNY",
+    "EUR",
+    "GBP",
+    "HKD",
+    "JPY",
+    "USD"
+  ],
   "tickers": [
     {
       "ticker": "2330.TW",
@@ -9,6 +18,7 @@
       "sources": [
         "watchlist",
         "holding",
+        "traded",
         "rebalance-target"
       ]
     },
@@ -20,6 +30,7 @@
       "sources": [
         "watchlist",
         "holding",
+        "traded",
         "rebalance-target"
       ]
     },
@@ -30,7 +41,8 @@
       "market": "TW",
       "sources": [
         "watchlist",
-        "holding"
+        "holding",
+        "traded"
       ]
     },
     {
@@ -40,7 +52,8 @@
       "market": "TW",
       "sources": [
         "watchlist",
-        "holding"
+        "holding",
+        "traded"
       ]
     },
     {
@@ -49,7 +62,8 @@
       "currency": "USD",
       "market": "US",
       "sources": [
-        "watchlist"
+        "watchlist",
+        "traded"
       ]
     },
     {
@@ -60,6 +74,7 @@
       "sources": [
         "watchlist",
         "holding",
+        "traded",
         "rebalance-target"
       ]
     },
@@ -69,7 +84,8 @@
       "currency": "USD",
       "market": "US",
       "sources": [
-        "watchlist"
+        "watchlist",
+        "traded"
       ]
     },
     {
@@ -78,7 +94,8 @@
       "currency": "USD",
       "market": "US",
       "sources": [
-        "watchlist"
+        "watchlist",
+        "traded"
       ]
     },
     {
@@ -89,6 +106,7 @@
       "sources": [
         "watchlist",
         "holding",
+        "traded",
         "rebalance-target"
       ]
     },
@@ -99,7 +117,26 @@
       "market": "US",
       "sources": [
         "holding",
+        "traded",
         "rebalance-target"
+      ]
+    },
+    {
+      "ticker": "00935.TW",
+      "name": "野村臺灣新科技 50",
+      "currency": "TWD",
+      "market": "TW",
+      "sources": [
+        "traded"
+      ]
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "currency": "USD",
+      "market": "US",
+      "sources": [
+        "traded"
       ]
     }
   ]
