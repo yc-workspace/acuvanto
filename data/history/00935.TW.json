@@ -1,7 +1,9 @@
 {
   "ticker": "00935.TW",
   "yahooSymbol": "00935.TW",
-  "updatedAt": "2026-10-06T07:46:58.257Z",
+  "updatedAt": "2026-10-06T07:48:34.841Z",
+  "exchangeTimezone": "Asia/Taipei",
+  "gmtoffset": 28800,
   "splits": [],
   "rows": [
     {

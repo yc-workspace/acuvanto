@@ -1,7 +1,9 @@
 {
   "ticker": "QQQM",
   "yahooSymbol": "QQQM",
-  "updatedAt": "2026-10-06T07:46:55.839Z",
+  "updatedAt": "2026-10-06T07:48:32.257Z",
+  "exchangeTimezone": "America/New_York",
+  "gmtoffset": -14400,
   "splits": [],
   "rows": [
     {

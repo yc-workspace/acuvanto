@@ -1,7 +1,9 @@
 {
   "ticker": "SCHG",
   "yahooSymbol": "SCHG",
-  "updatedAt": "2026-10-06T07:46:57.124Z",
+  "updatedAt": "2026-10-06T07:48:33.607Z",
+  "exchangeTimezone": "America/New_York",
+  "gmtoffset": -14400,
   "splits": [
     {
       "date": "2022-03-11",
