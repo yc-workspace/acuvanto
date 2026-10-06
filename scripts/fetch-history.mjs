@@ -8,16 +8,20 @@ import { writeFile, mkdir } from "node:fs/promises";
 import {
   loadWatchlist,
   toYahooSymbol,
-  collectForeignCurrencies,
+  collectHistoryCurrencies,
   toYahooFxSymbol,
   YAHOO_HEADERS,
 } from "./yahoo-common.mjs";
 
 const PERIOD1 = Math.floor(Date.UTC(1900, 0, 1) / 1000);
 
-// isFx = true 時抓的是匯率（例如 USDTWD=X）：只保留日期與收盤價，不要成交量與開高低，
-// 檔案小很多；另外匯率日K的時間戳記可能落在前一天的 23:00 UTC（倫敦午夜），
-// 直接取 UTC 日期會差一天，所以加 12 小時再取日期，不管落在 00:00 或前一天 23:00 都歸到正確的那天。
+// 日期基準：
+// - 股票：每根日K存「該交易所當地的交易日」。Yahoo 的日K時間戳記是該市場的開盤時間，這裡用 Yahoo 在 meta 回報的
+//   gmtoffset（交易所時區與 UTC 的秒差）換算成當地日期；台股就是台北日期，美股是美東日期（比台北晚半天到一天），
+//   澳股等比 UTC 早很多的市場，直接取 UTC 日期會差一天，所以不能用 UTC。
+// - 匯率（isFx = true）：日K時間戳記可能落在前一天的 23:00 UTC（倫敦午夜），所以加 12 小時再取 UTC 日期，
+//   不管落在 00:00 或前一天 23:00 都歸到正確的那天；只保留日期與收盤價，檔案小很多。
+// 工具裡使用者輸入的日期是台北時間，跟這裡的「交易所當地交易日」不一定同一天，換算與提示由 App 端處理。
 async function fetchHistory(symbol, { isFx = false } = {}) {
   const period2 = Math.floor(Date.now() / 1000);
   const eventsParam = isFx ? "" : "&events=div%2Csplits";
@@ -32,8 +36,10 @@ async function fetchHistory(symbol, { isFx = false } = {}) {
 
   const timestamps = result.timestamp || [];
   const q = result.indicators?.quote?.[0] || {};
-  const toDateText = (ts) =>
-    new Date((isFx ? ts + 12 * 3600 : ts) * 1000).toISOString().slice(0, 10);
+  const gmtoffsetRaw = Number(result.meta?.gmtoffset);
+  const hasGmtoffset = Number.isFinite(gmtoffsetRaw);
+  const offsetSeconds = isFx ? 12 * 3600 : hasGmtoffset ? gmtoffsetRaw : 0;
+  const toDateText = (ts) => new Date((ts + offsetSeconds) * 1000).toISOString().slice(0, 10);
   const rows = timestamps.map((ts, i) =>
     isFx
       ? { date: toDateText(ts), close: q.close?.[i] ?? null }
@@ -53,7 +59,7 @@ async function fetchHistory(symbol, { isFx = false } = {}) {
   // 但歷史收盤價仍是分割前的原值，App 端要拿分割日前後的收盤價比對，才能判斷要不要還原。
   const splits = Object.values(result.events?.splits || {})
     .map((event) => ({
-      date: new Date(event.date * 1000).toISOString().slice(0, 10),
+      date: toDateText(event.date),
       numerator: Number(event.numerator),
       denominator: Number(event.denominator),
     }))
@@ -62,7 +68,12 @@ async function fetchHistory(symbol, { isFx = false } = {}) {
     .sort((a, b) => a.date.localeCompare(b.date));
 
   // 濾掉停牌造成的空值列
-  return { rows: rows.filter((r) => r.close != null), splits };
+  return {
+    rows: rows.filter((r) => r.close != null),
+    splits,
+    exchangeTimezone: result.meta?.exchangeTimezoneName || null,
+    gmtoffset: hasGmtoffset ? gmtoffsetRaw : null,
+  };
 }
 
 // 檔名不能有奇怪字元，把 ticker 轉成安全檔名（. 和大部分符號其實檔名系統都能接受，
@@ -91,11 +102,14 @@ async function main() {
     const symbol = toYahooSymbol(item);
     try {
       console.log(`抓取歷史K線中：${item.ticker} → Yahoo symbol ${symbol}`);
-      const { rows, splits } = await fetchHistory(symbol);
+      const { rows, splits, exchangeTimezone, gmtoffset } = await fetchHistory(symbol);
       const out = {
         ticker: item.ticker,
         yahooSymbol: symbol,
         updatedAt: new Date().toISOString(),
+        // 日期基準：rows 與 splits 的日期是這個交易所時區的當地交易日（見 fetchHistory 上方說明）
+        exchangeTimezone,
+        gmtoffset,
         splits,
         rows,
       };
@@ -111,11 +125,12 @@ async function main() {
     await new Promise((r) => setTimeout(r, 300));
   }
 
-  // 外幣歷史匯率：存成 data/history/fx/{幣別}.json，每天由排程自動更新，
+  // 外幣歷史匯率：只存「有持有或交易過的標的」用到的幣別（見 collectHistoryCurrencies），
+  // 其他幣別只在 quotes.json 保留即時匯率。存成 data/history/fx/{幣別}.json，每天由排程自動更新，
   // 不需要使用者開工具。App 的歷史現值走勢用這份資料換算外幣標的，即時匯率則取自
   // quotes.json 的 fxRates，兩邊都是 Yahoo 的同一組匯率代碼。
   await mkdir("data/history/fx", { recursive: true });
-  for (const currency of collectForeignCurrencies(watchlist)) {
+  for (const currency of collectHistoryCurrencies(watchlist)) {
     const symbol = toYahooFxSymbol(currency);
     try {
       console.log(`抓取歷史匯率中：${currency}/TWD → Yahoo symbol ${symbol}`);

@@ -51,6 +51,20 @@ export function collectForeignCurrencies(watchlist) {
   return [...found].sort();
 }
 
+// 需要保存「歷史匯率」的外幣：只有「目前持有或曾經交易過」的標的所用的幣別（現值走勢只會用到這些）。
+// 只在觀察清單、目標配置出現的標的，以及只在系統設定裡有的幣別，都只保留即時匯率，不存歷史，檔案不會越存越多。
+// 舊版 watchlist.json 的標的沒有 sources 欄位時，保守起見視為需要。
+export function collectHistoryCurrencies(watchlist) {
+  const found = new Set();
+  for (const item of watchlist.tickers || []) {
+    const code = String(item.currency || "").trim().toUpperCase();
+    if (!/^[A-Z]{3}$/.test(code) || code === "TWD") continue;
+    const sources = item.sources;
+    if (!Array.isArray(sources) || sources.includes("traded") || sources.includes("holding")) found.add(code);
+  }
+  return [...found].sort();
+}
+
 // Yahoo Finance 的匯率代碼：USDTWD=X 代表「1 美元 = 多少新台幣」，
 // 跟 App 裡「1 外幣 = ? TWD」的匯率方向一致，不需要再取倒數。
 export function toYahooFxSymbol(currency) {
