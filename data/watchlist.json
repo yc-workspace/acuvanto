@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:25:50.539Z",
+  "updatedAt": "2026-10-07T06:27:09.881Z",
   "currencies": [
     "AUD",
     "CNY",
@@ -111,15 +111,6 @@
       ]
     },
     {
-      "ticker": "QQQ",
-      "name": "Invesco QQQ Trust",
-      "currency": "USD",
-      "market": "US",
-      "sources": [
-        "watchlist"
-      ]
-    },
-    {
       "ticker": "IBIT",
       "name": "iShares Bitcoin Trust ETF",
       "currency": "USD",
@@ -146,6 +137,13 @@
       "market": "US",
       "sources": [
         "traded"
+      ]
+    },
+    {
+      "ticker": "QQQ",
+      "currency": "TWD",
+      "sources": [
+        "benchmark"
       ]
     }
   ]
