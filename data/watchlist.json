@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:24:45.470Z",
+  "updatedAt": "2026-10-07T06:25:50.539Z",
   "currencies": [
     "AUD",
     "CNY",
@@ -31,8 +31,7 @@
         "watchlist",
         "holding",
         "traded",
-        "rebalance-target",
-        "benchmark"
+        "rebalance-target"
       ]
     },
     {
@@ -109,15 +108,6 @@
         "holding",
         "traded",
         "rebalance-target"
-      ]
-    },
-    {
-      "ticker": "0050.TW",
-      "name": "元大台灣 50",
-      "currency": "TWD",
-      "market": "TW",
-      "sources": [
-        "watchlist"
       ]
     },
     {
