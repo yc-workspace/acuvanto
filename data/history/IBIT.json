@@ -1,7 +1,7 @@
 {
   "ticker": "IBIT",
   "yahooSymbol": "IBIT",
-  "updatedAt": "2026-10-07T08:30:55.967Z",
+  "updatedAt": "2026-10-07T16:09:32.097Z",
   "exchangeTimezone": "America/New_York",
   "gmtoffset": -14400,
   "splits": [],
@@ -5493,6 +5493,14 @@
       "low": 48.34000015258789,
       "close": 48.4900016784668,
       "volume": 30271200
+    },
+    {
+      "date": "2026-10-07",
+      "open": 47.13199996948242,
+      "high": 47.31999969482422,
+      "low": 46.79999923706055,
+      "close": 47.31769943237305,
+      "volume": 27750913
     }
   ]
 }
