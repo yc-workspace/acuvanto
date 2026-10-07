@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:23:48.408Z",
+  "updatedAt": "2026-10-07T06:24:45.470Z",
   "currencies": [
     "AUD",
     "CNY",
@@ -31,7 +31,8 @@
         "watchlist",
         "holding",
         "traded",
-        "rebalance-target"
+        "rebalance-target",
+        "benchmark"
       ]
     },
     {
