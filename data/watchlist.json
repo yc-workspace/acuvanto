@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:27:39.439Z",
+  "updatedAt": "2026-10-07T06:27:52.357Z",
   "currencies": [
     "AUD",
     "CNY",
@@ -138,6 +138,13 @@
       "market": "US",
       "sources": [
         "traded"
+      ]
+    },
+    {
+      "ticker": "QQQ",
+      "currency": "USD",
+      "sources": [
+        "benchmark"
       ]
     }
   ]
