@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:27:09.881Z",
+  "updatedAt": "2026-10-07T06:27:39.439Z",
   "currencies": [
     "AUD",
     "CNY",
@@ -31,7 +31,8 @@
         "watchlist",
         "holding",
         "traded",
-        "rebalance-target"
+        "rebalance-target",
+        "benchmark"
       ]
     },
     {
@@ -137,13 +138,6 @@
       "market": "US",
       "sources": [
         "traded"
-      ]
-    },
-    {
-      "ticker": "QQQ",
-      "currency": "TWD",
-      "sources": [
-        "benchmark"
       ]
     }
   ]
