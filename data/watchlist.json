@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T05:37:21.662Z",
+  "updatedAt": "2026-10-07T05:38:01.676Z",
   "currencies": [
     "AUD",
     "CNY",
@@ -115,6 +115,15 @@
       "name": "元大台灣 50",
       "currency": "TWD",
       "market": "TW",
+      "sources": [
+        "watchlist"
+      ]
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "currency": "USD",
+      "market": "US",
       "sources": [
         "watchlist"
       ]
