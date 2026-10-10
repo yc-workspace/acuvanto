@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:11:41.251Z",
+  "updatedAt": "2026-10-10T08:28:48.964Z",
   "sourceWatchlistUpdatedAt": "2026-10-07T06:28:19.989Z",
   "quotes": {
     "2330.TW": {
@@ -10,7 +10,7 @@
       "volume": 20325120,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-08T05:30:13.000Z",
+      "asOf": "2026-10-08T05:30:14.000Z",
       "yahooSymbol": "2330.TW"
     },
     "0052.TW": {
@@ -176,9 +176,9 @@
       "yahooSymbol": "AUDTWD=X"
     },
     "CNY": {
-      "rate": 4.7658,
+      "rate": 4.776,
       "prevClose": 4.7653,
-      "asOf": "2026-10-09T21:54:48.000Z",
+      "asOf": "2026-10-10T03:34:49.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
@@ -194,9 +194,9 @@
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.0671,
+      "rate": 4.073,
       "prevClose": 4.068100929260254,
-      "asOf": "2026-10-09T21:54:48.000Z",
+      "asOf": "2026-10-10T03:34:49.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
@@ -206,9 +206,9 @@
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 31.91,
+      "rate": 31.916,
       "prevClose": 31.925399780273438,
-      "asOf": "2026-10-09T21:26:40.000Z",
+      "asOf": "2026-10-10T03:09:19.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
