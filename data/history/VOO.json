@@ -1,7 +1,7 @@
 {
   "ticker": "VOO",
   "yahooSymbol": "VOO",
-  "updatedAt": "2026-10-10T00:29:54.524Z",
+  "updatedAt": "2026-10-10T10:27:55.291Z",
   "exchangeTimezone": "America/New_York",
   "gmtoffset": -14400,
   "splits": [
@@ -32372,6 +32372,14 @@
       "low": 708.1599731445312,
       "close": 711.280029296875,
       "volume": 4763300
+    },
+    {
+      "date": "2026-10-09",
+      "open": 713.5399780273438,
+      "high": 716.4400024414062,
+      "low": 712.5399780273438,
+      "close": 715.5900268554688,
+      "volume": 4341800
     }
   ]
 }
