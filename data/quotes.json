@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T23:25:08.388Z",
+  "updatedAt": "2026-10-15T00:17:01.279Z",
   "sourceWatchlistUpdatedAt": "2026-10-07T06:28:19.989Z",
   "quotes": {
     "2330.TW": {
@@ -48,9 +48,9 @@
     },
     "QQQM": {
       "price": 300.13,
-      "prevClose": 306.1600036621094,
-      "change": -6.0300036621093795,
-      "changePct": -1.9695595734197653,
+      "prevClose": 307.19000244140625,
+      "change": -7.0600024414062545,
+      "changePct": -2.2982526727095838,
       "volume": 3716107,
       "currency": "USD",
       "exchangeName": "NGM",
@@ -59,9 +59,9 @@
     },
     "IAUM": {
       "price": 40.85,
-      "prevClose": 41.4900016784668,
-      "change": -0.6400016784667955,
-      "changePct": -1.5425443542436748,
+      "prevClose": 41.540000915527344,
+      "change": -0.6900009155273423,
+      "changePct": -1.6610517581125646,
       "volume": 2270055,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -70,9 +70,9 @@
     },
     "IYW": {
       "price": 259.54,
-      "prevClose": 267.30999755859375,
-      "change": -7.7699975585937295,
-      "changePct": -2.9067366090153675,
+      "prevClose": 266.79998779296875,
+      "change": -7.2599877929687295,
+      "changePct": -2.721134979437229,
       "volume": 899759,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -103,9 +103,9 @@
     },
     "IBIT": {
       "price": 46.24,
-      "prevClose": 47.130001068115234,
-      "change": -0.8900010681152324,
-      "changePct": -1.8883960278909115,
+      "prevClose": 46.86000061035156,
+      "change": -0.6200006103515605,
+      "changePct": -1.3230913407512843,
       "volume": 40279711,
       "currency": "USD",
       "exchangeName": "NGM",
@@ -125,9 +125,9 @@
     },
     "VOO": {
       "price": 707.43,
-      "prevClose": 715.2000122070312,
-      "change": -7.7700122070313,
-      "changePct": -1.086411084229972,
+      "prevClose": 715.1300048828125,
+      "change": -7.70000488281255,
+      "changePct": -1.0767279837565116,
       "volume": 6187754,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -136,9 +136,9 @@
     },
     "QQQ": {
       "price": 728.95,
-      "prevClose": 743.5700073242188,
-      "change": -14.620007324218705,
-      "changePct": -1.966191102412761,
+      "prevClose": 746.0399780273438,
+      "change": -17.089978027343705,
+      "changePct": -2.2907590116728738,
       "volume": 51534028,
       "currency": "USD",
       "exchangeName": "NGM",
@@ -147,9 +147,9 @@
     },
     "GLD": {
       "price": 375.99,
-      "prevClose": 381.6700134277344,
-      "change": -5.680013427734366,
-      "changePct": -1.4882000754323925,
+      "prevClose": 382.1499938964844,
+      "change": -6.159993896484366,
+      "changePct": -1.611930915836405,
       "volume": 10283502,
       "currency": "USD",
       "exchangeName": "PCX",
@@ -170,45 +170,45 @@
   },
   "fxRates": {
     "AUD": {
-      "rate": 22.422,
+      "rate": 22.425,
       "prevClose": 22.42020606994629,
-      "asOf": "2026-10-14T23:24:25.000Z",
+      "asOf": "2026-10-15T00:14:26.000Z",
       "yahooSymbol": "AUDTWD=X"
     },
     "CNY": {
-      "rate": 4.807,
+      "rate": 4.8091,
       "prevClose": 4.8112,
-      "asOf": "2026-10-14T23:09:30.000Z",
+      "asOf": "2026-10-15T00:14:26.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
-      "rate": 36.006,
+      "rate": 36.069,
       "prevClose": 35.9659423828125,
-      "asOf": "2026-10-14T23:24:25.000Z",
+      "asOf": "2026-10-15T00:14:26.000Z",
       "yahooSymbol": "EURTWD=X"
     },
     "GBP": {
-      "rate": 42.556,
+      "rate": 42.626,
       "prevClose": 42.559818267822266,
-      "asOf": "2026-10-14T23:24:25.000Z",
+      "asOf": "2026-10-15T00:14:26.000Z",
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.1047,
+      "rate": 4.1067,
       "prevClose": 4.090696811676025,
-      "asOf": "2026-10-14T23:24:25.000Z",
+      "asOf": "2026-10-15T00:14:26.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
-      "rate": 0.2014,
+      "rate": 0.2017,
       "prevClose": 0.2027669996023178,
-      "asOf": "2026-10-14T23:24:25.000Z",
+      "asOf": "2026-10-15T00:14:26.000Z",
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 32.168,
+      "rate": 32.184,
       "prevClose": 32.10499954223633,
-      "asOf": "2026-10-14T23:25:01.000Z",
+      "asOf": "2026-10-15T00:16:59.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
