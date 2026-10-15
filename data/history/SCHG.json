@@ -1,7 +1,7 @@
 {
   "ticker": "SCHG",
   "yahooSymbol": "SCHG",
-  "updatedAt": "2026-10-14T23:43:19.891Z",
+  "updatedAt": "2026-10-15T00:16:56.208Z",
   "exchangeTimezone": "America/New_York",
   "gmtoffset": -14400,
   "splits": [
@@ -33778,14 +33778,6 @@
       "low": 36.439998626708984,
       "close": 36.59000015258789,
       "volume": 6606500
-    },
-    {
-      "date": "2026-10-14",
-      "open": 36.40999984741211,
-      "high": 36.53499984741211,
-      "low": 35.763301849365234,
-      "close": 35.90999984741211,
-      "volume": 7603969
     }
   ]
 }
