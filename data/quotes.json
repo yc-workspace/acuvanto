@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-10-16T05:01:20.903Z",
+  "updatedAt": "2026-10-16T05:52:01.632Z",
   "sourceWatchlistUpdatedAt": "2026-10-07T06:28:19.989Z",
   "quotes": {
     "2330.TW": {
-      "price": 2435,
+      "price": 2420,
       "prevClose": 2440,
-      "change": -5,
-      "changePct": -0.20491803278688525,
-      "volume": 29281901,
+      "change": -20,
+      "changePct": -0.819672131147541,
+      "volume": 40787765,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-16T04:41:10.000Z",
+      "asOf": "2026-10-16T05:30:05.000Z",
       "yahooSymbol": "2330.TW"
     },
     "0052.TW": {
-      "price": 63.45,
+      "price": 63.3,
       "prevClose": 65.69999694824219,
-      "change": -2.2499969482421847,
-      "changePct": -3.4246530483322704,
-      "volume": 13818247,
+      "change": -2.3999969482421903,
+      "changePct": -3.652963561220382,
+      "volume": 16959067,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-16T04:41:06.000Z",
+      "asOf": "2026-10-16T05:30:10.000Z",
       "yahooSymbol": "0052.TW"
     },
     "00635U.TW": {
-      "price": 43.01,
+      "price": 42.97,
       "prevClose": 42.84000015258789,
-      "change": 0.16999984741210739,
-      "changePct": 0.3968250392310934,
-      "volume": 1638724,
+      "change": 0.12999984741210824,
+      "changePct": 0.3034543579576882,
+      "volume": 1965143,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-16T04:41:04.000Z",
+      "asOf": "2026-10-16T05:30:08.000Z",
       "yahooSymbol": "00635U.TW"
     },
     "00708L.TW": {
@@ -40,10 +40,10 @@
       "prevClose": 71.5999984741211,
       "change": 0.4500015258789034,
       "changePct": 0.6284937646214486,
-      "volume": 2303217,
+      "volume": 2629810,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-16T04:40:39.000Z",
+      "asOf": "2026-10-16T05:30:15.000Z",
       "yahooSymbol": "00708L.TW"
     },
     "QQQM": {
@@ -91,14 +91,14 @@
       "yahooSymbol": "SCHG"
     },
     "00662.TW": {
-      "price": 124.9,
+      "price": 124.95,
       "prevClose": 126.55000305175781,
-      "change": -1.6500030517578068,
-      "changePct": -1.303834857343283,
-      "volume": 2322803,
+      "change": -1.6000030517578097,
+      "changePct": -1.2643247832269295,
+      "volume": 3115793,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-16T04:40:36.000Z",
+      "asOf": "2026-10-16T05:30:12.000Z",
       "yahooSymbol": "00662.TW"
     },
     "IBIT": {
@@ -113,14 +113,14 @@
       "yahooSymbol": "IBIT"
     },
     "00935.TW": {
-      "price": 57.35,
+      "price": 57,
       "prevClose": 60.5,
-      "change": -3.1499999999999986,
-      "changePct": -5.206611570247931,
-      "volume": 8849974,
+      "change": -3.5,
+      "changePct": -5.785123966942149,
+      "volume": 10016198,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-16T04:40:24.000Z",
+      "asOf": "2026-10-16T05:30:13.000Z",
       "yahooSymbol": "00935.TW"
     },
     "VOO": {
@@ -157,58 +157,58 @@
       "yahooSymbol": "GLD"
     },
     "0050.TW": {
-      "price": 109.3,
+      "price": 109,
       "prevClose": 113,
-      "change": -3.700000000000003,
-      "changePct": -3.2743362831858436,
-      "volume": 100107216,
+      "change": -4,
+      "changePct": -3.5398230088495577,
+      "volume": 121130933,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-16T04:41:16.000Z",
+      "asOf": "2026-10-16T05:30:01.000Z",
       "yahooSymbol": "0050.TW"
     }
   },
   "fxRates": {
     "AUD": {
-      "rate": 22.519,
+      "rate": 22.507,
       "prevClose": 22.46227264404297,
-      "asOf": "2026-10-16T04:59:27.000Z",
+      "asOf": "2026-10-16T05:49:28.000Z",
       "yahooSymbol": "AUDTWD=X"
     },
     "CNY": {
-      "rate": 4.8565,
+      "rate": 4.8574,
       "prevClose": 4.8428,
-      "asOf": "2026-10-16T04:59:27.000Z",
+      "asOf": "2026-10-16T05:49:28.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
-      "rate": 36.467,
+      "rate": 36.453,
       "prevClose": 36.035621643066406,
-      "asOf": "2026-10-16T04:59:27.000Z",
+      "asOf": "2026-10-16T05:49:28.000Z",
       "yahooSymbol": "EURTWD=X"
     },
     "GBP": {
-      "rate": 43.207,
+      "rate": 43.184,
       "prevClose": 42.586273193359375,
-      "asOf": "2026-10-16T04:59:27.000Z",
+      "asOf": "2026-10-16T05:49:28.000Z",
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.1392,
+      "rate": 4.14,
       "prevClose": 4.101739883422852,
-      "asOf": "2026-10-16T04:59:27.000Z",
+      "asOf": "2026-10-16T05:49:28.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
       "rate": 0.2033,
       "prevClose": 0.20377600193023682,
-      "asOf": "2026-10-16T04:59:27.000Z",
+      "asOf": "2026-10-16T05:49:28.000Z",
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 32.408,
+      "rate": 32.422,
       "prevClose": 32.18989944458008,
-      "asOf": "2026-10-16T05:01:19.000Z",
+      "asOf": "2026-10-16T05:51:59.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
