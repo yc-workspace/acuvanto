@@ -8,7 +8,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CBF",
@@ -19,7 +19,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CCF",
@@ -30,7 +30,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CDF",
@@ -41,7 +41,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QFF",
@@ -52,7 +52,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CEF",
@@ -63,7 +63,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CFF",
@@ -74,7 +74,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CGF",
@@ -85,7 +85,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CHF",
@@ -96,7 +96,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CJF",
@@ -107,7 +107,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CKF",
@@ -118,7 +118,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CLF",
@@ -129,7 +129,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CMF",
@@ -140,7 +140,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CNF",
@@ -151,7 +151,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CQF",
@@ -162,7 +162,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CRF",
@@ -173,7 +173,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CSF",
@@ -184,7 +184,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CUF",
@@ -195,7 +195,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CWF",
@@ -206,18 +206,18 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "CXF",
     "UnderlyingSecurityCode": "2371",
     "ContractName": "大同期貨",
     "UnderlyingOfSingleStockFutures": "大同股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "CYF",
@@ -225,21 +225,21 @@
     "ContractName": "南亞科期貨",
     "UnderlyingOfSingleStockFutures": "南亞科技股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "17.00%",
-    "MaintenanceMarginRate": "17.60%",
-    "InitialMarginRate": "22.95%",
-    "Date": "20261015"
+    "ClearingMarginRate": "18.00%",
+    "MaintenanceMarginRate": "18.63%",
+    "InitialMarginRate": "24.30%",
+    "Date": "20261016"
   },
   {
     "Contract": "CZF",
     "UnderlyingSecurityCode": "2603",
     "ContractName": "長榮期貨",
     "UnderlyingOfSingleStockFutures": "長榮海運股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "DAF",
@@ -250,7 +250,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DBF",
@@ -261,7 +261,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DCF",
@@ -272,7 +272,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DEF",
@@ -283,7 +283,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DFF",
@@ -294,29 +294,29 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DGF",
     "UnderlyingSecurityCode": "1326",
     "ContractName": "台化期貨",
     "UnderlyingOfSingleStockFutures": "台灣化學纖維股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距3",
+    "ClearingMarginRate": "15.00%",
+    "MaintenanceMarginRate": "15.53%",
+    "InitialMarginRate": "20.25%",
+    "Date": "20261016"
   },
   {
     "Contract": "DHF",
     "UnderlyingSecurityCode": "2317",
     "ContractName": "鴻海期貨",
     "UnderlyingOfSingleStockFutures": "鴻海精密工業股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "DIF",
@@ -324,10 +324,10 @@
     "ContractName": "旺宏期貨",
     "UnderlyingOfSingleStockFutures": "旺宏電子股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "16.00%",
-    "MaintenanceMarginRate": "16.56%",
-    "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "ClearingMarginRate": "17.00%",
+    "MaintenanceMarginRate": "17.60%",
+    "InitialMarginRate": "22.95%",
+    "Date": "20261016"
   },
   {
     "Contract": "DJF",
@@ -338,7 +338,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QRF",
@@ -349,7 +349,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DKF",
@@ -360,7 +360,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DLF",
@@ -371,7 +371,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DNF",
@@ -382,7 +382,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DOF",
@@ -393,7 +393,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DPF",
@@ -404,7 +404,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DQF",
@@ -415,7 +415,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DSF",
@@ -426,7 +426,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DVF",
@@ -437,7 +437,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PUF",
@@ -448,7 +448,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DWF",
@@ -459,7 +459,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DXF",
@@ -470,7 +470,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DYF",
@@ -481,7 +481,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "DZF",
@@ -492,7 +492,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "EEF",
@@ -503,7 +503,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "EGF",
@@ -514,7 +514,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "EHF",
@@ -525,7 +525,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "EKF",
@@ -536,7 +536,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "EMF",
@@ -547,7 +547,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "EOF",
@@ -558,7 +558,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "EPF",
@@ -569,7 +569,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "EYF",
@@ -580,7 +580,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "EZF",
@@ -591,7 +591,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FBF",
@@ -602,7 +602,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FEF",
@@ -613,7 +613,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FFF",
@@ -624,7 +624,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QMF",
@@ -635,7 +635,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FGF",
@@ -646,7 +646,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "SVF",
@@ -657,7 +657,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FKF",
@@ -668,7 +668,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FNF",
@@ -679,18 +679,18 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FQF",
     "UnderlyingSecurityCode": "2301",
     "ContractName": "光寶科期貨",
     "UnderlyingOfSingleStockFutures": "光寶科技股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距3",
+    "ClearingMarginRate": "15.00%",
+    "MaintenanceMarginRate": "15.53%",
+    "InitialMarginRate": "20.25%",
+    "Date": "20261016"
   },
   {
     "Contract": "FRF",
@@ -701,7 +701,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RVF",
@@ -712,7 +712,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FSF",
@@ -723,7 +723,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FTF",
@@ -734,7 +734,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FVF",
@@ -745,7 +745,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FWF",
@@ -756,7 +756,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FYF",
@@ -767,7 +767,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "FZF",
@@ -775,10 +775,10 @@
     "ContractName": "華邦電期貨",
     "UnderlyingOfSingleStockFutures": "華邦電子股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "16.00%",
-    "MaintenanceMarginRate": "16.56%",
-    "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "ClearingMarginRate": "17.00%",
+    "MaintenanceMarginRate": "17.60%",
+    "InitialMarginRate": "22.95%",
+    "Date": "20261016"
   },
   {
     "Contract": "GAF",
@@ -789,18 +789,18 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GCF",
     "UnderlyingSecurityCode": "2354",
     "ContractName": "鴻準期貨",
     "UnderlyingOfSingleStockFutures": "鴻準精密工業股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "GHF",
@@ -811,7 +811,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "SLF",
@@ -822,7 +822,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GIF",
@@ -833,7 +833,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GJF",
@@ -844,7 +844,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QGF",
@@ -855,7 +855,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GKF",
@@ -866,7 +866,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GLF",
@@ -877,7 +877,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GMF",
@@ -888,7 +888,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GNF",
@@ -899,7 +899,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GOF",
@@ -910,7 +910,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UZF",
@@ -921,7 +921,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GRF",
@@ -932,7 +932,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VOF",
@@ -943,7 +943,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GUF",
@@ -954,7 +954,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GVF",
@@ -965,7 +965,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GWF",
@@ -976,7 +976,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GXF",
@@ -987,7 +987,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GYF",
@@ -998,7 +998,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "GZF",
@@ -1009,7 +1009,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "HAF",
@@ -1020,7 +1020,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "HBF",
@@ -1031,7 +1031,7 @@
     "ClearingMarginRate": "22.50%",
     "MaintenanceMarginRate": "23.29%",
     "InitialMarginRate": "30.38%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "HCF",
@@ -1042,7 +1042,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "HHF",
@@ -1053,18 +1053,18 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "HIF",
     "UnderlyingSecurityCode": "2520",
     "ContractName": "冠德期貨",
     "UnderlyingOfSingleStockFutures": "冠德建設股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "HLF",
@@ -1075,7 +1075,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "HOF",
@@ -1086,7 +1086,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "HQF",
@@ -1097,7 +1097,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "HSF",
@@ -1108,7 +1108,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IAF",
@@ -1119,7 +1119,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IHF",
@@ -1130,7 +1130,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IIF",
@@ -1138,10 +1138,10 @@
     "ContractName": "晶豪科期貨",
     "UnderlyingOfSingleStockFutures": "晶豪科技股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "16.00%",
-    "MaintenanceMarginRate": "16.56%",
-    "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "ClearingMarginRate": "17.00%",
+    "MaintenanceMarginRate": "17.60%",
+    "InitialMarginRate": "22.95%",
+    "Date": "20261016"
   },
   {
     "Contract": "IJF",
@@ -1152,7 +1152,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OLF",
@@ -1163,7 +1163,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IMF",
@@ -1174,7 +1174,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IOF",
@@ -1185,7 +1185,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QHF",
@@ -1196,7 +1196,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IPF",
@@ -1207,7 +1207,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IQF",
@@ -1218,18 +1218,18 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IRF",
     "UnderlyingSecurityCode": "3037",
     "ContractName": "欣興期貨",
     "UnderlyingOfSingleStockFutures": "欣興電子股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "",
+    "ClearingMarginRate": "16.00%",
+    "MaintenanceMarginRate": "16.56%",
+    "InitialMarginRate": "21.60%",
+    "Date": "20261016"
   },
   {
     "Contract": "ITF",
@@ -1240,18 +1240,18 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IXF",
     "UnderlyingSecurityCode": "3189",
     "ContractName": "景碩期貨",
     "UnderlyingOfSingleStockFutures": "景碩科技股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "",
+    "ClearingMarginRate": "16.00%",
+    "MaintenanceMarginRate": "16.56%",
+    "InitialMarginRate": "21.60%",
+    "Date": "20261016"
   },
   {
     "Contract": "IYF",
@@ -1262,7 +1262,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "IZF",
@@ -1273,7 +1273,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "JBF",
@@ -1284,7 +1284,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RWF",
@@ -1295,7 +1295,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "JFF",
@@ -1306,7 +1306,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RFF",
@@ -1317,7 +1317,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "JMF",
@@ -1328,7 +1328,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RGF",
@@ -1339,7 +1339,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "JNF",
@@ -1350,7 +1350,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "JPF",
@@ -1361,7 +1361,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "JSF",
@@ -1372,18 +1372,18 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "JWF",
     "UnderlyingSecurityCode": "5534",
     "ContractName": "長虹期貨",
     "UnderlyingOfSingleStockFutures": "長虹建設股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "JXF",
@@ -1394,7 +1394,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "JZF",
@@ -1405,7 +1405,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KAF",
@@ -1416,7 +1416,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KBF",
@@ -1427,18 +1427,18 @@
     "ClearingMarginRate": "22.50%",
     "MaintenanceMarginRate": "23.29%",
     "InitialMarginRate": "30.38%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KCF",
     "UnderlyingSecurityCode": "6239",
     "ContractName": "力成期貨",
     "UnderlyingOfSingleStockFutures": "力成科技股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距3",
+    "ClearingMarginRate": "15.00%",
+    "MaintenanceMarginRate": "15.53%",
+    "InitialMarginRate": "20.25%",
+    "Date": "20261016"
   },
   {
     "Contract": "KDF",
@@ -1449,18 +1449,18 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KEF",
     "UnderlyingSecurityCode": "6278",
     "ContractName": "台表科期貨",
     "UnderlyingOfSingleStockFutures": "台灣表面黏著科技股份有限公司",
-    "GroupLevel": "級距1",
-    "ClearingMarginRate": "10.00%",
-    "MaintenanceMarginRate": "10.35%",
-    "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "GroupLevel": "級距2",
+    "ClearingMarginRate": "12.00%",
+    "MaintenanceMarginRate": "12.42%",
+    "InitialMarginRate": "16.20%",
+    "Date": "20261016"
   },
   {
     "Contract": "KFF",
@@ -1471,7 +1471,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KGF",
@@ -1482,18 +1482,18 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KIF",
     "UnderlyingSecurityCode": "8039",
     "ContractName": "台虹期貨",
     "UnderlyingOfSingleStockFutures": "台虹科技股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "",
+    "ClearingMarginRate": "16.00%",
+    "MaintenanceMarginRate": "16.56%",
+    "InitialMarginRate": "21.60%",
+    "Date": "20261016"
   },
   {
     "Contract": "KKF",
@@ -1504,7 +1504,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KLF",
@@ -1515,7 +1515,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KOF",
@@ -1526,7 +1526,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KPF",
@@ -1537,29 +1537,29 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "KSF",
     "UnderlyingSecurityCode": "1477",
     "ContractName": "聚陽期貨",
     "UnderlyingOfSingleStockFutures": "聚陽實業股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "SCF",
     "UnderlyingSecurityCode": "1477",
     "ContractName": "小型聚陽期貨",
     "UnderlyingOfSingleStockFutures": "聚陽實業股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "KUF",
@@ -1567,10 +1567,10 @@
     "ContractName": "台玻期貨",
     "UnderlyingOfSingleStockFutures": "台灣玻璃工業股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "16.00%",
-    "MaintenanceMarginRate": "16.56%",
-    "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "ClearingMarginRate": "17.00%",
+    "MaintenanceMarginRate": "17.60%",
+    "InitialMarginRate": "22.95%",
+    "Date": "20261016"
   },
   {
     "Contract": "KWF",
@@ -1581,7 +1581,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LBF",
@@ -1592,7 +1592,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LCF",
@@ -1603,7 +1603,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LEF",
@@ -1614,7 +1614,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QJF",
@@ -1625,7 +1625,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LIF",
@@ -1636,7 +1636,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LMF",
@@ -1647,7 +1647,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LOF",
@@ -1658,7 +1658,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LQF",
@@ -1669,7 +1669,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LRF",
@@ -1680,7 +1680,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LTF",
@@ -1691,7 +1691,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LUF",
@@ -1702,7 +1702,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LVF",
@@ -1713,18 +1713,18 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LWF",
     "UnderlyingSecurityCode": "1476",
     "ContractName": "儒鴻期貨",
     "UnderlyingOfSingleStockFutures": "儒鴻企業股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "LXF",
@@ -1735,7 +1735,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QEF",
@@ -1746,7 +1746,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "LYF",
@@ -1754,10 +1754,10 @@
     "ContractName": "南電期貨",
     "UnderlyingOfSingleStockFutures": "南亞電路板股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "16.00%",
-    "MaintenanceMarginRate": "16.56%",
-    "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "ClearingMarginRate": "17.00%",
+    "MaintenanceMarginRate": "17.60%",
+    "InitialMarginRate": "22.95%",
+    "Date": "20261016"
   },
   {
     "Contract": "QSF",
@@ -1765,10 +1765,10 @@
     "ContractName": "小型南電期貨",
     "UnderlyingOfSingleStockFutures": "南亞電路板股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "16.00%",
-    "MaintenanceMarginRate": "16.56%",
-    "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "ClearingMarginRate": "17.00%",
+    "MaintenanceMarginRate": "17.60%",
+    "InitialMarginRate": "22.95%",
+    "Date": "20261016"
   },
   {
     "Contract": "MBF",
@@ -1779,7 +1779,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "MJF",
@@ -1790,7 +1790,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VDF",
@@ -1801,7 +1801,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "MKF",
@@ -1812,7 +1812,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "MQF",
@@ -1823,7 +1823,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "MVF",
@@ -1834,7 +1834,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "MYF",
@@ -1845,7 +1845,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OMF",
@@ -1856,7 +1856,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NAF",
@@ -1867,7 +1867,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QIF",
@@ -1878,7 +1878,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NBF",
@@ -1889,7 +1889,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NCF",
@@ -1900,7 +1900,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VJF",
@@ -1911,7 +1911,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NDF",
@@ -1922,7 +1922,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NEF",
@@ -1933,7 +1933,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NGF",
@@ -1944,7 +1944,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NIF",
@@ -1955,7 +1955,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NJF",
@@ -1966,29 +1966,29 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NLF",
     "UnderlyingSecurityCode": "5347",
     "ContractName": "世界期貨",
     "UnderlyingOfSingleStockFutures": "世界先進積體電路股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距3",
+    "ClearingMarginRate": "15.00%",
+    "MaintenanceMarginRate": "15.53%",
+    "InitialMarginRate": "20.25%",
+    "Date": "20261016"
   },
   {
     "Contract": "NOF",
     "UnderlyingSecurityCode": "5483",
     "ContractName": "中美晶期貨",
     "UnderlyingOfSingleStockFutures": "中美矽晶製品股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距3",
+    "ClearingMarginRate": "15.00%",
+    "MaintenanceMarginRate": "15.53%",
+    "InitialMarginRate": "20.25%",
+    "Date": "20261016"
   },
   {
     "Contract": "NQF",
@@ -1999,18 +1999,18 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NSF",
     "UnderlyingSecurityCode": "6147",
     "ContractName": "頎邦期貨",
     "UnderlyingOfSingleStockFutures": "頎邦科技股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距3",
+    "ClearingMarginRate": "15.00%",
+    "MaintenanceMarginRate": "15.53%",
+    "InitialMarginRate": "20.25%",
+    "Date": "20261016"
   },
   {
     "Contract": "NUF",
@@ -2021,7 +2021,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NVF",
@@ -2032,29 +2032,29 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "NWF",
     "UnderlyingSecurityCode": "8299",
     "ContractName": "群聯期貨",
     "UnderlyingOfSingleStockFutures": "群聯電子股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "",
+    "ClearingMarginRate": "16.00%",
+    "MaintenanceMarginRate": "16.56%",
+    "InitialMarginRate": "21.60%",
+    "Date": "20261016"
   },
   {
     "Contract": "QNF",
     "UnderlyingSecurityCode": "8299",
     "ContractName": "小型群聯期貨",
     "UnderlyingOfSingleStockFutures": "群聯電子股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "",
+    "ClearingMarginRate": "16.00%",
+    "MaintenanceMarginRate": "16.56%",
+    "InitialMarginRate": "21.60%",
+    "Date": "20261016"
   },
   {
     "Contract": "ODF",
@@ -2065,7 +2065,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OEF",
@@ -2076,7 +2076,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OHF",
@@ -2087,7 +2087,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OPF",
@@ -2098,7 +2098,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "SEF",
@@ -2109,7 +2109,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OQF",
@@ -2120,7 +2120,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "ORF",
@@ -2131,7 +2131,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OSF",
@@ -2142,7 +2142,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OTF",
@@ -2150,10 +2150,10 @@
     "ContractName": "聯亞期貨",
     "UnderlyingOfSingleStockFutures": "聯亞光電工業股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "17.00%",
-    "MaintenanceMarginRate": "17.60%",
-    "InitialMarginRate": "22.95%",
-    "Date": "20261015"
+    "ClearingMarginRate": "18.00%",
+    "MaintenanceMarginRate": "18.63%",
+    "InitialMarginRate": "24.30%",
+    "Date": "20261016"
   },
   {
     "Contract": "OUF",
@@ -2164,7 +2164,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OVF",
@@ -2175,7 +2175,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OWF",
@@ -2186,7 +2186,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PBF",
@@ -2197,7 +2197,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OXF",
@@ -2208,7 +2208,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OYF",
@@ -2219,29 +2219,29 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "OZF",
     "UnderlyingSecurityCode": "3711",
     "ContractName": "日月光投控期貨",
     "UnderlyingOfSingleStockFutures": "日月光投資控股股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距3",
+    "ClearingMarginRate": "15.00%",
+    "MaintenanceMarginRate": "15.53%",
+    "InitialMarginRate": "20.25%",
+    "Date": "20261016"
   },
   {
     "Contract": "VPF",
     "UnderlyingSecurityCode": "3711",
     "ContractName": "小型日月光投控期貨",
     "UnderlyingOfSingleStockFutures": "日月光投資控股股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距3",
+    "ClearingMarginRate": "15.00%",
+    "MaintenanceMarginRate": "15.53%",
+    "InitialMarginRate": "20.25%",
+    "Date": "20261016"
   },
   {
     "Contract": "PAF",
@@ -2252,7 +2252,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PCF",
@@ -2263,7 +2263,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PDF",
@@ -2274,7 +2274,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PEF",
@@ -2285,7 +2285,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PGF",
@@ -2296,7 +2296,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PHF",
@@ -2307,7 +2307,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PNF",
@@ -2318,7 +2318,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PIF",
@@ -2329,7 +2329,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RSF",
@@ -2340,7 +2340,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PJF",
@@ -2351,7 +2351,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "SFF",
@@ -2362,18 +2362,18 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PKF",
     "UnderlyingSecurityCode": "6173",
     "ContractName": "信昌電期貨",
     "UnderlyingOfSingleStockFutures": "信昌電子陶瓷股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "",
+    "ClearingMarginRate": "16.00%",
+    "MaintenanceMarginRate": "16.56%",
+    "InitialMarginRate": "21.60%",
+    "Date": "20261016"
   },
   {
     "Contract": "PLF",
@@ -2384,7 +2384,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PMF",
@@ -2395,7 +2395,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PPF",
@@ -2406,7 +2406,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PQF",
@@ -2414,10 +2414,10 @@
     "ContractName": "金居期貨",
     "UnderlyingOfSingleStockFutures": "金居開發股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "17.00%",
-    "MaintenanceMarginRate": "17.60%",
-    "InitialMarginRate": "22.95%",
-    "Date": "20261015"
+    "ClearingMarginRate": "18.00%",
+    "MaintenanceMarginRate": "18.63%",
+    "InitialMarginRate": "24.30%",
+    "Date": "20261016"
   },
   {
     "Contract": "PRF",
@@ -2428,18 +2428,18 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PSF",
     "UnderlyingSecurityCode": "3706",
     "ContractName": "神達期貨",
     "UnderlyingOfSingleStockFutures": "神達控股股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "級距2",
+    "ClearingMarginRate": "12.00%",
+    "MaintenanceMarginRate": "12.42%",
+    "InitialMarginRate": "16.20%",
+    "Date": "20261016"
   },
   {
     "Contract": "PTF",
@@ -2450,7 +2450,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "ULF",
@@ -2461,7 +2461,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PVF",
@@ -2472,7 +2472,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PWF",
@@ -2483,7 +2483,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PXF",
@@ -2494,7 +2494,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PYF",
@@ -2505,7 +2505,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "PZF",
@@ -2516,7 +2516,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QAF",
@@ -2527,7 +2527,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QBF",
@@ -2538,7 +2538,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QCF",
@@ -2549,7 +2549,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QDF",
@@ -2557,10 +2557,10 @@
     "ContractName": "台勝科期貨",
     "UnderlyingOfSingleStockFutures": "台塑勝高科技股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "16.00%",
-    "MaintenanceMarginRate": "16.56%",
-    "InitialMarginRate": "21.60%",
-    "Date": "20261015"
+    "ClearingMarginRate": "17.00%",
+    "MaintenanceMarginRate": "17.60%",
+    "InitialMarginRate": "22.95%",
+    "Date": "20261016"
   },
   {
     "Contract": "QKF",
@@ -2571,7 +2571,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QLF",
@@ -2582,7 +2582,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QOF",
@@ -2593,7 +2593,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QPF",
@@ -2604,18 +2604,18 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QQF",
     "UnderlyingSecurityCode": "3078",
     "ContractName": "僑威期貨",
     "UnderlyingOfSingleStockFutures": "僑威科技股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "QTF",
@@ -2626,7 +2626,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QUF",
@@ -2637,7 +2637,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QVF",
@@ -2648,7 +2648,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QWF",
@@ -2659,7 +2659,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QXF",
@@ -2670,7 +2670,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QYF",
@@ -2681,18 +2681,18 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "QZF",
     "UnderlyingSecurityCode": "6770",
     "ContractName": "力積電期貨",
     "UnderlyingOfSingleStockFutures": "力晶積成電子製造股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "",
+    "ClearingMarginRate": "16.00%",
+    "MaintenanceMarginRate": "16.56%",
+    "InitialMarginRate": "21.60%",
+    "Date": "20261016"
   },
   {
     "Contract": "RAF",
@@ -2703,7 +2703,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UHF",
@@ -2714,18 +2714,18 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RBF",
     "UnderlyingSecurityCode": "5388",
     "ContractName": "中磊期貨",
     "UnderlyingOfSingleStockFutures": "中磊電子股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "RCF",
@@ -2736,7 +2736,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RDF",
@@ -2747,7 +2747,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "REF",
@@ -2758,7 +2758,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RJF",
@@ -2769,7 +2769,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RKF",
@@ -2780,7 +2780,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VGF",
@@ -2791,7 +2791,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RLF",
@@ -2802,7 +2802,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RNF",
@@ -2813,7 +2813,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "ROF",
@@ -2824,7 +2824,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RPF",
@@ -2835,7 +2835,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RRF",
@@ -2846,29 +2846,29 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "RUF",
     "UnderlyingSecurityCode": "9958",
     "ContractName": "世紀鋼期貨",
     "UnderlyingOfSingleStockFutures": "世紀鋼鐵結構股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "級距2",
+    "ClearingMarginRate": "12.00%",
+    "MaintenanceMarginRate": "12.42%",
+    "InitialMarginRate": "16.20%",
+    "Date": "20261016"
   },
   {
     "Contract": "SWF",
     "UnderlyingSecurityCode": "9958",
     "ContractName": "小型世紀鋼期貨",
     "UnderlyingOfSingleStockFutures": "世紀鋼鐵結構股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "級距2",
+    "ClearingMarginRate": "12.00%",
+    "MaintenanceMarginRate": "12.42%",
+    "InitialMarginRate": "16.20%",
+    "Date": "20261016"
   },
   {
     "Contract": "SAF",
@@ -2879,7 +2879,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "SBF",
@@ -2890,29 +2890,29 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "SDF",
     "UnderlyingSecurityCode": "1513",
     "ContractName": "中興電期貨",
     "UnderlyingOfSingleStockFutures": "中興電工機械股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "SJF",
     "UnderlyingSecurityCode": "3005",
     "ContractName": "神基期貨",
     "UnderlyingOfSingleStockFutures": "神基控股股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "SKF",
@@ -2923,7 +2923,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "SYF",
@@ -2934,7 +2934,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "SZF",
@@ -2945,7 +2945,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UAF",
@@ -2956,7 +2956,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UBF",
@@ -2967,7 +2967,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VKF",
@@ -2978,7 +2978,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UCF",
@@ -2989,7 +2989,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UEF",
@@ -3000,7 +3000,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UFF",
@@ -3011,7 +3011,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UGF",
@@ -3022,7 +3022,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UIF",
@@ -3033,7 +3033,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UMF",
@@ -3044,7 +3044,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UOF",
@@ -3055,7 +3055,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UPF",
@@ -3066,7 +3066,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UQF",
@@ -3077,7 +3077,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UTF",
@@ -3088,18 +3088,18 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UUF",
     "UnderlyingSecurityCode": "6757",
     "ContractName": "台灣虎航期貨",
     "UnderlyingOfSingleStockFutures": "台灣虎航股份有限公司",
-    "GroupLevel": "級距2",
-    "ClearingMarginRate": "12.00%",
-    "MaintenanceMarginRate": "12.42%",
-    "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "GroupLevel": "級距1",
+    "ClearingMarginRate": "10.00%",
+    "MaintenanceMarginRate": "10.35%",
+    "InitialMarginRate": "13.50%",
+    "Date": "20261016"
   },
   {
     "Contract": "UVF",
@@ -3110,7 +3110,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UWF",
@@ -3121,7 +3121,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UXF",
@@ -3132,7 +3132,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "UYF",
@@ -3143,7 +3143,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VAF",
@@ -3154,7 +3154,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VBF",
@@ -3165,7 +3165,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VCF",
@@ -3176,7 +3176,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VEF",
@@ -3187,7 +3187,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VFF",
@@ -3198,7 +3198,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VIF",
@@ -3209,7 +3209,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VLF",
@@ -3220,7 +3220,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VMF",
@@ -3231,7 +3231,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VNF",
@@ -3242,17 +3242,17 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "Date": "20261016"
   },
   {
     "Contract": "VQF",
     "UnderlyingSecurityCode": "3718",
     "ContractName": "中光電投控期貨",
     "UnderlyingOfSingleStockFutures": "中光電投資控股股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261015"
+    "GroupLevel": "",
+    "ClearingMarginRate": "16.00%",
+    "MaintenanceMarginRate": "16.56%",
+    "InitialMarginRate": "21.60%",
+    "Date": "20261016"
   }
 ]
