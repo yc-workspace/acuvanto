@@ -1,7 +1,7 @@
 {
   "ticker": "GLD",
   "yahooSymbol": "GLD",
-  "updatedAt": "2026-10-21T03:16:48.773Z",
+  "updatedAt": "2026-10-21T14:22:46.833Z",
   "exchangeTimezone": "America/New_York",
   "gmtoffset": -14400,
   "splits": [],
@@ -44117,6 +44117,14 @@
       "low": 377.260009765625,
       "close": 377.6499938964844,
       "volume": 6010700
+    },
+    {
+      "date": "2026-10-21",
+      "open": 379.1700134277344,
+      "high": 379.3192138671875,
+      "low": 377.739990234375,
+      "close": 378.3900146484375,
+      "volume": 910820
     }
   ]
 }
