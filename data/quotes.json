@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T20:40:22.693Z",
+  "updatedAt": "2026-10-21T23:37:34.060Z",
   "sourceWatchlistUpdatedAt": "2026-10-16T22:45:11.268Z",
   "quotes": {
     "2330.TW": {
@@ -51,7 +51,7 @@
       "prevClose": 295.5899963378906,
       "change": 3.0500036621093614,
       "changePct": 1.0318358875118645,
-      "volume": 2459212,
+      "volume": 2466078,
       "currency": "USD",
       "exchangeName": "NGM",
       "asOf": "2026-10-21T20:00:00.000Z",
@@ -62,7 +62,7 @@
       "prevClose": 41.06999969482422,
       "change": 0.1300003051757841,
       "changePct": 0.3165334943797605,
-      "volume": 4058274,
+      "volume": 4160652,
       "currency": "USD",
       "exchangeName": "PCX",
       "asOf": "2026-10-21T20:00:00.000Z",
@@ -73,7 +73,7 @@
       "prevClose": 253.33999633789062,
       "change": 3.7200036621093773,
       "changePct": 1.468383877746586,
-      "volume": 319642,
+      "volume": 319646,
       "currency": "USD",
       "exchangeName": "PCX",
       "asOf": "2026-10-21T20:00:00.000Z",
@@ -84,7 +84,7 @@
       "prevClose": 35.529998779296875,
       "change": 0.33000122070312443,
       "changePct": 0.9287960372670043,
-      "volume": 11504940,
+      "volume": 11506684,
       "currency": "USD",
       "exchangeName": "PCX",
       "asOf": "2026-10-21T20:00:00.000Z",
@@ -106,7 +106,7 @@
       "prevClose": 46.709999084472656,
       "change": 1.1300009155273472,
       "changePct": 2.4191841954092057,
-      "volume": 49446663,
+      "volume": 50182527,
       "currency": "USD",
       "exchangeName": "NGM",
       "asOf": "2026-10-21T20:00:01.000Z",
@@ -128,7 +128,7 @@
       "prevClose": 706.7999877929688,
       "change": 3.9200122070312773,
       "changePct": 0.5546140739577236,
-      "volume": 6158464,
+      "volume": 6173852,
       "currency": "USD",
       "exchangeName": "PCX",
       "asOf": "2026-10-21T20:00:00.000Z",
@@ -139,7 +139,7 @@
       "prevClose": 717.6300048828125,
       "change": 7.5699951171875455,
       "changePct": 1.0548604525564271,
-      "volume": 30716866,
+      "volume": 31534625,
       "currency": "USD",
       "exchangeName": "NGM",
       "asOf": "2026-10-21T20:00:00.000Z",
@@ -150,7 +150,7 @@
       "prevClose": 377.6499938964844,
       "change": 1.3000061035156136,
       "changePct": 0.3442357009204537,
-      "volume": 6815634,
+      "volume": 6836525,
       "currency": "USD",
       "exchangeName": "PCX",
       "asOf": "2026-10-21T20:00:00.000Z",
@@ -170,45 +170,45 @@
   },
   "fxRates": {
     "AUD": {
-      "rate": 22.76,
+      "rate": 22.748,
       "prevClose": 22.835105895996094,
-      "asOf": "2026-10-21T20:39:25.000Z",
+      "asOf": "2026-10-21T23:34:29.000Z",
       "yahooSymbol": "AUDTWD=X"
     },
     "CNY": {
-      "rate": 4.8611,
-      "prevClose": 4.8861,
-      "asOf": "2026-10-21T20:39:25.000Z",
+      "rate": 4.86,
+      "prevClose": 4.8573,
+      "asOf": "2026-10-21T23:34:29.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
-      "rate": 36.443,
+      "rate": 36.436,
       "prevClose": 36.579383850097656,
-      "asOf": "2026-10-21T20:39:25.000Z",
+      "asOf": "2026-10-21T23:34:29.000Z",
       "yahooSymbol": "EURTWD=X"
     },
     "GBP": {
-      "rate": 43.463,
+      "rate": 43.447,
       "prevClose": 43.5675048828125,
-      "asOf": "2026-10-21T20:39:25.000Z",
+      "asOf": "2026-10-21T23:34:29.000Z",
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.1357,
+      "rate": 4.1348,
       "prevClose": 4.1508588790893555,
-      "asOf": "2026-10-21T20:39:25.000Z",
+      "asOf": "2026-10-21T23:34:29.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
       "rate": 0.2027,
       "prevClose": 0.2058209925889969,
-      "asOf": "2026-10-21T20:39:25.000Z",
+      "asOf": "2026-10-21T23:34:29.000Z",
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 32.404,
+      "rate": 32.376,
       "prevClose": 32.577598571777344,
-      "asOf": "2026-10-21T20:40:21.000Z",
+      "asOf": "2026-10-21T23:35:49.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
