@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T14:40:07.530Z",
+  "updatedAt": "2026-10-24T19:44:19.382Z",
   "sourceWatchlistUpdatedAt": "2026-10-16T22:45:11.268Z",
   "quotes": {
     "2330.TW": {
@@ -10,7 +10,7 @@
       "volume": 0,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-22T05:30:09.000Z",
+      "asOf": "2026-10-22T05:30:10.000Z",
       "yahooSymbol": "2330.TW"
     },
     "0052.TW": {
@@ -120,7 +120,7 @@
       "volume": 0,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-22T05:30:21.000Z",
+      "asOf": "2026-10-22T05:30:22.000Z",
       "yahooSymbol": "00935.TW"
     },
     "VOO": {
@@ -164,7 +164,7 @@
       "volume": 0,
       "currency": "TWD",
       "exchangeName": "TAI",
-      "asOf": "2026-10-22T05:30:04.000Z",
+      "asOf": "2026-10-22T05:30:05.000Z",
       "yahooSymbol": "0050.TW"
     }
   },
