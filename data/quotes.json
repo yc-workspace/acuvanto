@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:04:23.443Z",
+  "updatedAt": "2026-10-25T19:32:29.436Z",
   "sourceWatchlistUpdatedAt": "2026-10-16T22:45:11.268Z",
   "quotes": {
     "2330.TW": {
@@ -182,9 +182,9 @@
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
-      "rate": 36.53,
+      "rate": 36.532,
       "prevClose": 36.574771881103516,
-      "asOf": "2026-10-23T21:26:44.000Z",
+      "asOf": "2026-10-25T18:21:42.000Z",
       "yahooSymbol": "EURTWD=X"
     },
     "GBP": {
@@ -200,15 +200,15 @@
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
-      "rate": 0.2055,
+      "rate": 0.2054,
       "prevClose": 0.20830099284648895,
-      "asOf": "2026-10-23T21:26:44.000Z",
+      "asOf": "2026-10-25T18:21:42.000Z",
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 32.57,
+      "rate": 32.573,
       "prevClose": 32.59700012207031,
-      "asOf": "2026-10-25T13:52:00.000Z",
+      "asOf": "2026-10-25T17:55:54.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
