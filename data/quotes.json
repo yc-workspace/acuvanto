@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:01:52.710Z",
+  "updatedAt": "2026-10-27T20:35:39.628Z",
   "sourceWatchlistUpdatedAt": "2026-10-16T22:45:11.268Z",
   "quotes": {
     "2330.TW": {
@@ -7,7 +7,7 @@
       "prevClose": 2385,
       "change": 15,
       "changePct": 0.628930817610063,
-      "volume": 35766965,
+      "volume": 33964182,
       "currency": "TWD",
       "exchangeName": "TAI",
       "asOf": "2026-10-27T05:30:09.000Z",
@@ -47,47 +47,47 @@
       "yahooSymbol": "00708L.TW"
     },
     "QQQM": {
-      "price": 297.4,
+      "price": 296.96,
       "prevClose": 293.260009765625,
-      "change": 4.139990234374977,
-      "changePct": 1.4117131884717864,
-      "volume": 1087314,
+      "change": 3.6999902343749795,
+      "changePct": 1.2616756840907262,
+      "volume": 2108910,
       "currency": "USD",
       "exchangeName": "NGM",
-      "asOf": "2026-10-27T16:01:41.000Z",
+      "asOf": "2026-10-27T20:00:00.000Z",
       "yahooSymbol": "QQQM"
     },
     "IAUM": {
-      "price": 40.48,
+      "price": 40.47,
       "prevClose": 39.9900016784668,
-      "change": 0.4899983215332,
-      "changePct": 1.2253020779367627,
-      "volume": 670361,
+      "change": 0.479998321533202,
+      "changePct": 1.2002958274234434,
+      "volume": 1602581,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-10-27T16:01:36.000Z",
+      "asOf": "2026-10-27T20:00:00.000Z",
       "yahooSymbol": "IAUM"
     },
     "IYW": {
-      "price": 256.94,
+      "price": 256.26,
       "prevClose": 252.8800048828125,
-      "change": 4.059995117187498,
-      "changePct": 1.6055026252743652,
-      "volume": 241652,
+      "change": 3.379995117187491,
+      "changePct": 1.3366003843419014,
+      "volume": 412051,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-10-27T16:01:30.000Z",
+      "asOf": "2026-10-27T20:00:00.000Z",
       "yahooSymbol": "IYW"
     },
     "SCHG": {
-      "price": 35.56,
+      "price": 35.5,
       "prevClose": 35.099998474121094,
-      "change": 0.4600015258789085,
-      "changePct": 1.3105457147471486,
-      "volume": 2656516,
+      "change": 0.40000152587890625,
+      "changePct": 1.1396055363758029,
+      "volume": 6522046,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-10-27T16:01:41.000Z",
+      "asOf": "2026-10-27T20:00:00.000Z",
       "yahooSymbol": "SCHG"
     },
     "00662.TW": {
@@ -102,14 +102,14 @@
       "yahooSymbol": "00662.TW"
     },
     "IBIT": {
-      "price": 45.545,
+      "price": 45.7,
       "prevClose": 45.220001220703125,
-      "change": 0.3249987792968767,
-      "changePct": 0.7187058171685368,
-      "volume": 13818624,
+      "change": 0.47999877929687784,
+      "changePct": 1.0614744943375176,
+      "volume": 25743903,
       "currency": "USD",
       "exchangeName": "NGM",
-      "asOf": "2026-10-27T16:01:39.000Z",
+      "asOf": "2026-10-27T20:00:01.000Z",
       "yahooSymbol": "IBIT"
     },
     "00935.TW": {
@@ -124,36 +124,36 @@
       "yahooSymbol": "00935.TW"
     },
     "VOO": {
-      "price": 708.52,
+      "price": 707.52,
       "prevClose": 703.4099731445312,
-      "change": 5.110026855468732,
-      "changePct": 0.7264649422903139,
-      "volume": 1516564,
+      "change": 4.110026855468732,
+      "changePct": 0.5843003386908526,
+      "volume": 5345356,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-10-27T16:01:47.000Z",
+      "asOf": "2026-10-27T20:00:00.000Z",
       "yahooSymbol": "VOO"
     },
     "QQQ": {
-      "price": 722.32,
+      "price": 721.25,
       "prevClose": 712.2000122070312,
-      "change": 10.1199877929688,
-      "changePct": 1.4209474332369143,
-      "volume": 13120667,
+      "change": 9.04998779296875,
+      "changePct": 1.2707087388167562,
+      "volume": 29583219,
       "currency": "USD",
       "exchangeName": "NGM",
-      "asOf": "2026-10-27T16:01:45.000Z",
+      "asOf": "2026-10-27T20:00:00.000Z",
       "yahooSymbol": "QQQ"
     },
     "GLD": {
-      "price": 372.29,
+      "price": 372.28,
       "prevClose": 367.82000732421875,
-      "change": 4.4699926757812705,
-      "changePct": 1.2152663223241005,
-      "volume": 2557977,
+      "change": 4.459992675781223,
+      "changePct": 1.212547601264636,
+      "volume": 5121278,
       "currency": "USD",
       "exchangeName": "PCX",
-      "asOf": "2026-10-27T16:01:45.000Z",
+      "asOf": "2026-10-27T20:00:00.000Z",
       "yahooSymbol": "GLD"
     },
     "0050.TW": {
@@ -170,45 +170,45 @@
   },
   "fxRates": {
     "AUD": {
-      "rate": 22.775,
+      "rate": 22.752,
       "prevClose": 22.901159286499023,
-      "asOf": "2026-10-27T16:01:46.000Z",
+      "asOf": "2026-10-27T20:31:42.000Z",
       "yahooSymbol": "AUDTWD=X"
     },
     "CNY": {
-      "rate": 4.8646,
+      "rate": 4.864,
       "prevClose": 4.8869,
-      "asOf": "2026-10-27T16:01:46.000Z",
+      "asOf": "2026-10-27T19:21:45.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
-      "rate": 36.144,
+      "rate": 36.109,
       "prevClose": 35.38800048828125,
-      "asOf": "2026-10-27T16:01:46.000Z",
+      "asOf": "2026-10-27T20:31:42.000Z",
       "yahooSymbol": "EURTWD=X"
     },
     "GBP": {
-      "rate": 43.178,
+      "rate": 43.185,
       "prevClose": 43.56790542602539,
-      "asOf": "2026-10-27T16:01:46.000Z",
+      "asOf": "2026-10-27T20:31:42.000Z",
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.1353,
+      "rate": 4.1372,
       "prevClose": 4.153255939483643,
-      "asOf": "2026-10-27T16:01:46.000Z",
+      "asOf": "2026-10-27T20:31:42.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
       "rate": 0.203,
       "prevClose": 0.20764000713825226,
-      "asOf": "2026-10-27T16:01:46.000Z",
+      "asOf": "2026-10-27T20:31:42.000Z",
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 32.393,
+      "rate": 32.407,
       "prevClose": 32.57080078125,
-      "asOf": "2026-10-27T16:01:50.000Z",
+      "asOf": "2026-10-27T20:35:12.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
