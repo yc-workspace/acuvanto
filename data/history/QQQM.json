@@ -1,7 +1,7 @@
 {
   "ticker": "QQQM",
   "yahooSymbol": "QQQM",
-  "updatedAt": "2026-10-30T00:38:03.865Z",
+  "updatedAt": "2026-10-30T05:25:12.157Z",
   "exchangeTimezone": "America/New_York",
   "gmtoffset": -14400,
   "splits": [],
@@ -12149,6 +12149,14 @@
       "low": 296.6499938964844,
       "close": 298.7099914550781,
       "volume": 2430300
+    },
+    {
+      "date": "2026-10-29",
+      "open": 295.0199890136719,
+      "high": 295.6400146484375,
+      "low": 293.07000732421875,
+      "close": 294.5299987792969,
+      "volume": 2478300
     }
   ]
 }
