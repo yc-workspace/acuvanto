@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:25:16.651Z",
+  "updatedAt": "2026-10-30T23:03:50.570Z",
   "source": "TAIFEX OpenAPI",
   "margin": {
     "TX": 701000,
@@ -220,42 +220,42 @@
         "initialMargin": 560,
         "maintenanceMargin": 430,
         "clearingMargin": 410,
-        "date": "20261029"
+        "date": "20261030"
       },
       {
         "contract": "黃金選擇權風險保證金(A)值",
         "initialMargin": 18000,
         "maintenanceMargin": 14000,
         "clearingMargin": 13000,
-        "date": "20261029"
+        "date": "20261030"
       },
       {
         "contract": "黃金選擇權風險保證金(B)值",
         "initialMargin": 9000,
         "maintenanceMargin": 7000,
         "clearingMargin": 7000,
-        "date": "20261029"
+        "date": "20261030"
       },
       {
         "contract": "臺幣黃金期貨",
         "initialMargin": 22000,
         "maintenanceMargin": 17000,
         "clearingMargin": 16000,
-        "date": "20261029"
+        "date": "20261030"
       },
       {
         "contract": "黃金選擇權風險保證金(C)值",
         "initialMargin": 0,
         "maintenanceMargin": 0,
         "clearingMargin": 0,
-        "date": "20261029"
+        "date": "20261030"
       },
       {
         "contract": "布蘭特原油期貨",
         "initialMargin": 87000,
         "maintenanceMargin": 67000,
         "clearingMargin": 64000,
-        "date": "20261029"
+        "date": "20261030"
       }
     ],
     "singleStock": [
