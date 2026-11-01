@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T14:56:34.332Z",
+  "updatedAt": "2026-11-01T14:29:54.628Z",
   "sourceWatchlistUpdatedAt": "2026-10-30T05:26:51.864Z",
   "quotes": {
     "2330.TW": {
@@ -178,7 +178,7 @@
     "CNY": {
       "rate": 4.9072,
       "prevClose": 4.888,
-      "asOf": "2026-10-30T22:34:25.000Z",
+      "asOf": "2026-11-01T14:29:26.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
@@ -194,9 +194,9 @@
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.1621,
-      "prevClose": 4.127852916717529,
-      "asOf": "2026-10-30T22:34:25.000Z",
+      "rate": 4.1623,
+      "prevClose": 4.1509199142456055,
+      "asOf": "2026-11-01T14:29:26.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
@@ -207,8 +207,8 @@
     },
     "USD": {
       "rate": 32.605,
-      "prevClose": 32.3828010559082,
-      "asOf": "2026-10-30T22:08:10.000Z",
+      "prevClose": 32.566898345947266,
+      "asOf": "2026-11-01T14:23:04.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
