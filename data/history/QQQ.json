@@ -1,9 +1,9 @@
 {
   "ticker": "QQQ",
   "yahooSymbol": "QQQ",
-  "updatedAt": "2026-10-31T23:57:09.066Z",
+  "updatedAt": "2026-11-01T15:51:43.883Z",
   "exchangeTimezone": "America/New_York",
-  "gmtoffset": -14400,
+  "gmtoffset": -18000,
   "splits": [
     {
       "date": "2000-03-20",
