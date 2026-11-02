@@ -1,7 +1,7 @@
 {
   "ticker": "00935.TW",
   "yahooSymbol": "00935.TW",
-  "updatedAt": "2026-11-02T08:37:09.698Z",
+  "updatedAt": "2026-11-02T19:15:28.942Z",
   "exchangeTimezone": "Asia/Taipei",
   "gmtoffset": 28800,
   "splits": [],
@@ -5884,7 +5884,7 @@
       "high": 53.54999923706055,
       "low": 52.45000076293945,
       "close": 53.150001525878906,
-      "volume": 13634324
+      "volume": 13222348
     }
   ]
 }

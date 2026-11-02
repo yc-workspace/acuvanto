@@ -1,7 +1,7 @@
 {
   "ticker": "QQQ",
   "yahooSymbol": "QQQ",
-  "updatedAt": "2026-11-02T08:37:10.561Z",
+  "updatedAt": "2026-11-02T19:15:29.943Z",
   "exchangeTimezone": "America/New_York",
   "gmtoffset": -18000,
   "splits": [
@@ -55652,6 +55652,14 @@
       "low": 683.4500122070312,
       "close": 690.489990234375,
       "volume": 85108900
+    },
+    {
+      "date": "2026-11-02",
+      "open": 695.3150024414062,
+      "high": 699.4299926757812,
+      "low": 687.1099853515625,
+      "close": 687.969970703125,
+      "volume": 31586622
     }
   ]
 }
