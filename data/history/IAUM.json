@@ -1,7 +1,7 @@
 {
   "ticker": "IAUM",
   "yahooSymbol": "IAUM",
-  "updatedAt": "2026-11-05T17:10:38.594Z",
+  "updatedAt": "2026-11-05T23:46:01.310Z",
   "exchangeTimezone": "America/New_York",
   "gmtoffset": -18000,
   "splits": [],
@@ -10755,8 +10755,8 @@
       "open": 41.040000915527344,
       "high": 41.18989944458008,
       "low": 40.599998474121094,
-      "close": 41.06999969482422,
-      "volume": 1556075
+      "close": 40.81999969482422,
+      "volume": 2671659
     }
   ]
 }
