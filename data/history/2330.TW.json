@@ -1,7 +1,7 @@
 {
   "ticker": "2330.TW",
   "yahooSymbol": "2330.TW",
-  "updatedAt": "2026-11-04T16:55:25.398Z",
+  "updatedAt": "2026-11-05T01:18:48.808Z",
   "exchangeTimezone": "Asia/Taipei",
   "gmtoffset": 28800,
   "splits": [
@@ -53426,6 +53426,14 @@
       "low": 2280,
       "close": 2295,
       "volume": 36998754
+    },
+    {
+      "date": "2026-11-04",
+      "open": 2320,
+      "high": 2320,
+      "low": 2235,
+      "close": 2260,
+      "volume": 45456849
     }
   ]
 }
