@@ -1,7 +1,7 @@
 {
   "ticker": "00662.TW",
   "yahooSymbol": "00662.TW",
-  "updatedAt": "2026-11-05T23:46:02.694Z",
+  "updatedAt": "2026-11-06T01:23:29.300Z",
   "exchangeTimezone": "Asia/Taipei",
   "gmtoffset": 28800,
   "splits": [],
@@ -20261,6 +20261,14 @@
       "low": 116.1500015258789,
       "close": 118,
       "volume": 7457699
+    },
+    {
+      "date": "2026-11-06",
+      "open": 113.25,
+      "high": 113.55000305175781,
+      "low": 113.25,
+      "close": 113.4000015258789,
+      "volume": 522000
     }
   ]
 }
