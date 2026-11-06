@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T23:46:03.249Z",
+  "updatedAt": "2026-11-06T04:01:40.864Z",
   "source": "TAIFEX OpenAPI",
   "margin": {
     "TX": 701000,
@@ -3580,7 +3580,7 @@
         "initialMargin": 87000,
         "maintenanceMargin": 67000,
         "clearingMargin": 64000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "SRF",
@@ -3590,7 +3590,7 @@
         "initialMargin": 8700,
         "maintenanceMargin": 6700,
         "clearingMargin": 6400,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "OAF",
@@ -3600,7 +3600,7 @@
         "initialMargin": 29000,
         "maintenanceMargin": 22000,
         "clearingMargin": 21000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "OBF",
@@ -3610,7 +3610,7 @@
         "initialMargin": 29000,
         "maintenanceMargin": 22000,
         "clearingMargin": 21000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "OJF",
@@ -3620,7 +3620,7 @@
         "initialMargin": 21000,
         "maintenanceMargin": 16000,
         "clearingMargin": 15000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "OKF",
@@ -3630,7 +3630,7 @@
         "initialMargin": 13000,
         "maintenanceMargin": 10000,
         "clearingMargin": 9000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "OOF",
@@ -3640,7 +3640,7 @@
         "initialMargin": 15000,
         "maintenanceMargin": 12000,
         "clearingMargin": 11000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "PFF",
@@ -3650,7 +3650,7 @@
         "initialMargin": 30000,
         "maintenanceMargin": 23000,
         "clearingMargin": 22000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "SSF",
@@ -3660,7 +3660,7 @@
         "initialMargin": 3000,
         "maintenanceMargin": 2300,
         "clearingMargin": 2200,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "RIF",
@@ -3670,7 +3670,7 @@
         "initialMargin": 21000,
         "maintenanceMargin": 16000,
         "clearingMargin": 15000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "RXF",
@@ -3680,7 +3680,7 @@
         "initialMargin": 14000,
         "maintenanceMargin": 11000,
         "clearingMargin": 10000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "RYF",
@@ -3690,7 +3690,7 @@
         "initialMargin": 37000,
         "maintenanceMargin": 28000,
         "clearingMargin": 27000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "RZF",
@@ -3700,7 +3700,7 @@
         "initialMargin": 19000,
         "maintenanceMargin": 15000,
         "clearingMargin": 14000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "SGF",
@@ -3710,7 +3710,7 @@
         "initialMargin": 32000,
         "maintenanceMargin": 24000,
         "clearingMargin": 23000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "SIF",
@@ -3720,7 +3720,7 @@
         "initialMargin": 15000,
         "maintenanceMargin": 12000,
         "clearingMargin": 11000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "SMF",
@@ -3730,7 +3730,7 @@
         "initialMargin": 18000,
         "maintenanceMargin": 14000,
         "clearingMargin": 13000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "SNF",
@@ -3740,7 +3740,7 @@
         "initialMargin": 22000,
         "maintenanceMargin": 17000,
         "clearingMargin": 16000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "SQF",
@@ -3750,7 +3750,7 @@
         "initialMargin": 22000,
         "maintenanceMargin": 17000,
         "clearingMargin": 16000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "SUF",
@@ -3760,7 +3760,7 @@
         "initialMargin": 9000,
         "maintenanceMargin": 7000,
         "clearingMargin": 6000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "UJF",
@@ -3770,7 +3770,7 @@
         "initialMargin": 11000,
         "maintenanceMargin": 9000,
         "clearingMargin": 8000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "UKF",
@@ -3780,7 +3780,7 @@
         "initialMargin": 21000,
         "maintenanceMargin": 16000,
         "clearingMargin": 15000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "URF",
@@ -3790,7 +3790,7 @@
         "initialMargin": 107000,
         "maintenanceMargin": 82000,
         "clearingMargin": 79000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "USF",
@@ -3800,7 +3800,7 @@
         "initialMargin": 10700,
         "maintenanceMargin": 8200,
         "clearingMargin": 7900,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "VHF",
@@ -3810,7 +3810,7 @@
         "initialMargin": 56000,
         "maintenanceMargin": 43000,
         "clearingMargin": 41000,
-        "date": "20261104"
+        "date": "20261105"
       },
       {
         "contract": "VWF",
@@ -3820,7 +3820,7 @@
         "initialMargin": 14000,
         "maintenanceMargin": 11000,
         "clearingMargin": 10000,
-        "date": "20261104"
+        "date": "20261105"
       }
     ]
   }
