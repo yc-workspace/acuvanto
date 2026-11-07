@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T23:32:42.468Z",
+  "updatedAt": "2026-11-07T23:32:48.161Z",
   "currencies": [
     "AUD",
     "CNY",
@@ -140,15 +140,8 @@
       ]
     },
     {
-      "ticker": "QQQ",
-      "currency": "USD",
-      "sources": [
-        "benchmark"
-      ]
-    },
-    {
       "ticker": "GLD",
-      "currency": "USD",
+      "currency": "TWD",
       "sources": [
         "benchmark"
       ]
