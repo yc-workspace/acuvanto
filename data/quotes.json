@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T01:34:24.705Z",
+  "updatedAt": "2026-11-07T02:51:34.347Z",
   "sourceWatchlistUpdatedAt": "2026-11-06T12:38:03.048Z",
   "quotes": {
     "2330.TW": {
@@ -48,10 +48,10 @@
     },
     "QQQM": {
       "price": 270.22,
-      "prevClose": 284.9200134277344,
-      "change": -14.700013427734348,
-      "changePct": -5.159347443124694,
-      "volume": 6787342,
+      "prevClose": 266.8500061035156,
+      "change": 3.3699938964844023,
+      "changePct": 1.2628794526529352,
+      "volume": 6804500,
       "currency": "USD",
       "exchangeName": "NGM",
       "asOf": "2026-11-06T21:00:00.000Z",
@@ -59,10 +59,10 @@
     },
     "IAUM": {
       "price": 40.51,
-      "prevClose": 40.5,
-      "change": 0.00999999999999801,
-      "changePct": 0.024691358024686447,
-      "volume": 1927344,
+      "prevClose": 40.81999969482422,
+      "change": -0.30999969482422074,
+      "changePct": -0.7594309092156294,
+      "volume": 1927900,
       "currency": "USD",
       "exchangeName": "PCX",
       "asOf": "2026-11-06T21:00:00.000Z",
@@ -103,10 +103,10 @@
     },
     "IBIT": {
       "price": 42.88,
-      "prevClose": 45.33000183105469,
-      "change": -2.450001831054685,
-      "changePct": -5.404812998212229,
-      "volume": 42562311,
+      "prevClose": 43.029998779296875,
+      "change": -0.14999877929687244,
+      "changePct": -0.34859117720691574,
+      "volume": 42663300,
       "currency": "USD",
       "exchangeName": "NGM",
       "asOf": "2026-11-06T21:00:01.000Z",
