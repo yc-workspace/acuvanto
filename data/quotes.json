@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:31:58.823Z",
+  "updatedAt": "2026-11-11T06:34:58.668Z",
   "sourceWatchlistUpdatedAt": "2026-11-07T23:33:01.985Z",
   "quotes": {
     "2330.TW": {
@@ -186,7 +186,7 @@
     "USD": {
       "rate": 32.826,
       "prevClose": 32.78860092163086,
-      "asOf": "2026-11-11T06:31:49.000Z",
+      "asOf": "2026-11-11T06:33:53.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
