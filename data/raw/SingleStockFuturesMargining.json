@@ -8,7 +8,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CBF",
@@ -19,7 +19,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CCF",
@@ -30,7 +30,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CDF",
@@ -41,7 +41,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QFF",
@@ -52,7 +52,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CEF",
@@ -63,7 +63,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CFF",
@@ -74,7 +74,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CGF",
@@ -85,7 +85,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CHF",
@@ -96,7 +96,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CJF",
@@ -107,7 +107,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CKF",
@@ -118,7 +118,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CLF",
@@ -129,7 +129,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CMF",
@@ -140,7 +140,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CNF",
@@ -151,7 +151,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CQF",
@@ -162,7 +162,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CRF",
@@ -173,7 +173,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CSF",
@@ -184,7 +184,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CUF",
@@ -195,7 +195,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CWF",
@@ -206,7 +206,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CXF",
@@ -217,7 +217,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CYF",
@@ -228,7 +228,7 @@
     "ClearingMarginRate": "18.00%",
     "MaintenanceMarginRate": "18.63%",
     "InitialMarginRate": "24.30%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "CZF",
@@ -239,7 +239,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DAF",
@@ -250,7 +250,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DBF",
@@ -261,7 +261,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DCF",
@@ -272,7 +272,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DEF",
@@ -283,7 +283,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DFF",
@@ -294,7 +294,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DGF",
@@ -305,7 +305,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DHF",
@@ -316,7 +316,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DIF",
@@ -327,7 +327,7 @@
     "ClearingMarginRate": "17.00%",
     "MaintenanceMarginRate": "17.60%",
     "InitialMarginRate": "22.95%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DJF",
@@ -338,7 +338,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QRF",
@@ -349,7 +349,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DKF",
@@ -360,7 +360,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DLF",
@@ -371,7 +371,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DNF",
@@ -382,7 +382,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DOF",
@@ -393,7 +393,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DPF",
@@ -404,7 +404,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DQF",
@@ -415,7 +415,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DSF",
@@ -426,7 +426,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DVF",
@@ -437,7 +437,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PUF",
@@ -448,7 +448,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DWF",
@@ -459,7 +459,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DXF",
@@ -470,7 +470,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DYF",
@@ -481,7 +481,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "DZF",
@@ -492,7 +492,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "EEF",
@@ -503,7 +503,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "EGF",
@@ -514,7 +514,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "EHF",
@@ -525,7 +525,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "EKF",
@@ -536,7 +536,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "EMF",
@@ -547,7 +547,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "EOF",
@@ -558,7 +558,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "EPF",
@@ -569,7 +569,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "EYF",
@@ -580,7 +580,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "EZF",
@@ -591,7 +591,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FBF",
@@ -602,7 +602,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FEF",
@@ -613,7 +613,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FFF",
@@ -624,7 +624,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QMF",
@@ -635,7 +635,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FGF",
@@ -646,7 +646,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SVF",
@@ -657,7 +657,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FKF",
@@ -668,7 +668,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FNF",
@@ -679,7 +679,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FQF",
@@ -690,7 +690,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FRF",
@@ -701,7 +701,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RVF",
@@ -712,7 +712,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FSF",
@@ -723,7 +723,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FTF",
@@ -734,7 +734,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FVF",
@@ -745,7 +745,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FWF",
@@ -756,7 +756,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FYF",
@@ -767,7 +767,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "FZF",
@@ -778,7 +778,7 @@
     "ClearingMarginRate": "17.00%",
     "MaintenanceMarginRate": "17.60%",
     "InitialMarginRate": "22.95%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GAF",
@@ -789,7 +789,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GCF",
@@ -800,7 +800,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GHF",
@@ -811,7 +811,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SLF",
@@ -822,7 +822,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GIF",
@@ -833,7 +833,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GJF",
@@ -844,7 +844,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QGF",
@@ -855,7 +855,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GKF",
@@ -866,7 +866,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GLF",
@@ -877,7 +877,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GMF",
@@ -888,7 +888,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GNF",
@@ -899,7 +899,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GOF",
@@ -910,7 +910,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UZF",
@@ -921,7 +921,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GRF",
@@ -932,7 +932,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VOF",
@@ -943,7 +943,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GUF",
@@ -954,7 +954,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GVF",
@@ -965,7 +965,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GWF",
@@ -976,7 +976,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GXF",
@@ -987,7 +987,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GYF",
@@ -998,7 +998,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "GZF",
@@ -1009,7 +1009,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "HAF",
@@ -1020,7 +1020,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "HBF",
@@ -1031,7 +1031,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "HCF",
@@ -1042,7 +1042,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "HHF",
@@ -1053,7 +1053,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "HIF",
@@ -1064,7 +1064,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "HLF",
@@ -1075,7 +1075,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "HOF",
@@ -1086,7 +1086,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "HQF",
@@ -1097,7 +1097,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "HSF",
@@ -1108,7 +1108,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IAF",
@@ -1119,7 +1119,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IHF",
@@ -1130,7 +1130,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IIF",
@@ -1141,7 +1141,7 @@
     "ClearingMarginRate": "17.00%",
     "MaintenanceMarginRate": "17.60%",
     "InitialMarginRate": "22.95%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IJF",
@@ -1152,7 +1152,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OLF",
@@ -1163,7 +1163,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IMF",
@@ -1174,7 +1174,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IOF",
@@ -1185,7 +1185,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QHF",
@@ -1196,7 +1196,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IPF",
@@ -1207,7 +1207,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IQF",
@@ -1218,7 +1218,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IRF",
@@ -1229,7 +1229,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "ITF",
@@ -1240,7 +1240,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IXF",
@@ -1251,7 +1251,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IYF",
@@ -1262,7 +1262,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "IZF",
@@ -1273,7 +1273,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "JBF",
@@ -1284,7 +1284,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RWF",
@@ -1295,7 +1295,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "JFF",
@@ -1306,7 +1306,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RFF",
@@ -1317,7 +1317,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "JMF",
@@ -1328,7 +1328,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RGF",
@@ -1339,7 +1339,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "JNF",
@@ -1350,7 +1350,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "JPF",
@@ -1361,7 +1361,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "JSF",
@@ -1372,7 +1372,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "JWF",
@@ -1383,7 +1383,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "JXF",
@@ -1394,7 +1394,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "JZF",
@@ -1405,7 +1405,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KAF",
@@ -1416,7 +1416,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KBF",
@@ -1427,7 +1427,7 @@
     "ClearingMarginRate": "32.00%",
     "MaintenanceMarginRate": "33.12%",
     "InitialMarginRate": "43.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KCF",
@@ -1438,7 +1438,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KDF",
@@ -1449,7 +1449,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KEF",
@@ -1460,7 +1460,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KFF",
@@ -1471,7 +1471,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KGF",
@@ -1482,7 +1482,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KIF",
@@ -1493,7 +1493,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KKF",
@@ -1504,7 +1504,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KLF",
@@ -1515,7 +1515,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KOF",
@@ -1526,7 +1526,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KPF",
@@ -1537,7 +1537,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KSF",
@@ -1548,7 +1548,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SCF",
@@ -1559,7 +1559,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KUF",
@@ -1570,7 +1570,7 @@
     "ClearingMarginRate": "17.00%",
     "MaintenanceMarginRate": "17.60%",
     "InitialMarginRate": "22.95%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "KWF",
@@ -1581,7 +1581,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LBF",
@@ -1592,7 +1592,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LCF",
@@ -1603,7 +1603,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LEF",
@@ -1614,7 +1614,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QJF",
@@ -1625,7 +1625,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LIF",
@@ -1636,7 +1636,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LMF",
@@ -1647,7 +1647,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LOF",
@@ -1658,7 +1658,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LQF",
@@ -1669,7 +1669,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LRF",
@@ -1680,7 +1680,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LTF",
@@ -1691,7 +1691,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LUF",
@@ -1702,7 +1702,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VVF",
@@ -1713,7 +1713,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LVF",
@@ -1724,7 +1724,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LWF",
@@ -1735,7 +1735,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LXF",
@@ -1746,7 +1746,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QEF",
@@ -1757,7 +1757,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "LYF",
@@ -1768,7 +1768,7 @@
     "ClearingMarginRate": "17.00%",
     "MaintenanceMarginRate": "17.60%",
     "InitialMarginRate": "22.95%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QSF",
@@ -1779,7 +1779,7 @@
     "ClearingMarginRate": "17.00%",
     "MaintenanceMarginRate": "17.60%",
     "InitialMarginRate": "22.95%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "MBF",
@@ -1790,29 +1790,29 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "MJF",
     "UnderlyingSecurityCode": "2360",
     "ContractName": "致茂期貨",
     "UnderlyingOfSingleStockFutures": "致茂電子股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "GroupLevel": "",
+    "ClearingMarginRate": "22.50%",
+    "MaintenanceMarginRate": "23.29%",
+    "InitialMarginRate": "30.38%",
+    "Date": "20261110"
   },
   {
     "Contract": "VDF",
     "UnderlyingSecurityCode": "2360",
     "ContractName": "小型致茂期貨",
     "UnderlyingOfSingleStockFutures": "致茂電子股份有限公司",
-    "GroupLevel": "級距3",
-    "ClearingMarginRate": "15.00%",
-    "MaintenanceMarginRate": "15.53%",
-    "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "GroupLevel": "",
+    "ClearingMarginRate": "22.50%",
+    "MaintenanceMarginRate": "23.29%",
+    "InitialMarginRate": "30.38%",
+    "Date": "20261110"
   },
   {
     "Contract": "MKF",
@@ -1823,7 +1823,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "MQF",
@@ -1834,7 +1834,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "MVF",
@@ -1845,7 +1845,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "MYF",
@@ -1856,7 +1856,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OMF",
@@ -1867,7 +1867,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NAF",
@@ -1878,7 +1878,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QIF",
@@ -1889,7 +1889,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NBF",
@@ -1900,7 +1900,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NCF",
@@ -1911,7 +1911,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VJF",
@@ -1922,7 +1922,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NDF",
@@ -1933,7 +1933,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NEF",
@@ -1944,7 +1944,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NGF",
@@ -1955,7 +1955,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NIF",
@@ -1966,7 +1966,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NJF",
@@ -1977,7 +1977,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NLF",
@@ -1988,7 +1988,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NOF",
@@ -1999,7 +1999,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NQF",
@@ -2010,7 +2010,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NSF",
@@ -2021,7 +2021,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NUF",
@@ -2032,7 +2032,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NVF",
@@ -2043,7 +2043,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "NWF",
@@ -2054,7 +2054,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QNF",
@@ -2065,7 +2065,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "ODF",
@@ -2076,7 +2076,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OEF",
@@ -2087,7 +2087,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OHF",
@@ -2098,7 +2098,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OPF",
@@ -2109,7 +2109,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SEF",
@@ -2120,7 +2120,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OQF",
@@ -2131,7 +2131,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "ORF",
@@ -2142,7 +2142,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OSF",
@@ -2153,7 +2153,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OTF",
@@ -2164,7 +2164,7 @@
     "ClearingMarginRate": "18.00%",
     "MaintenanceMarginRate": "18.63%",
     "InitialMarginRate": "24.30%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OUF",
@@ -2175,7 +2175,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OVF",
@@ -2186,7 +2186,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OWF",
@@ -2197,7 +2197,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PBF",
@@ -2208,7 +2208,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OXF",
@@ -2219,7 +2219,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OYF",
@@ -2230,7 +2230,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "OZF",
@@ -2241,7 +2241,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VPF",
@@ -2252,7 +2252,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PAF",
@@ -2263,7 +2263,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PCF",
@@ -2274,7 +2274,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PDF",
@@ -2285,7 +2285,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PEF",
@@ -2296,7 +2296,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PGF",
@@ -2307,7 +2307,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PHF",
@@ -2318,7 +2318,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PNF",
@@ -2329,7 +2329,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PIF",
@@ -2340,7 +2340,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RSF",
@@ -2351,7 +2351,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PJF",
@@ -2362,7 +2362,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SFF",
@@ -2373,7 +2373,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PKF",
@@ -2384,7 +2384,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PLF",
@@ -2395,7 +2395,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PMF",
@@ -2406,7 +2406,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PPF",
@@ -2417,7 +2417,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PQF",
@@ -2428,7 +2428,7 @@
     "ClearingMarginRate": "18.00%",
     "MaintenanceMarginRate": "18.63%",
     "InitialMarginRate": "24.30%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PRF",
@@ -2439,7 +2439,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PSF",
@@ -2450,7 +2450,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PTF",
@@ -2461,7 +2461,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "ULF",
@@ -2472,7 +2472,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PVF",
@@ -2483,7 +2483,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PWF",
@@ -2494,7 +2494,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PXF",
@@ -2505,7 +2505,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PYF",
@@ -2516,7 +2516,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "PZF",
@@ -2527,7 +2527,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QAF",
@@ -2538,7 +2538,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QBF",
@@ -2549,7 +2549,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QCF",
@@ -2560,7 +2560,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QDF",
@@ -2568,10 +2568,10 @@
     "ContractName": "台勝科期貨",
     "UnderlyingOfSingleStockFutures": "台塑勝高科技股份有限公司",
     "GroupLevel": "",
-    "ClearingMarginRate": "17.00%",
-    "MaintenanceMarginRate": "17.60%",
-    "InitialMarginRate": "22.95%",
-    "Date": "20261109"
+    "ClearingMarginRate": "25.50%",
+    "MaintenanceMarginRate": "26.39%",
+    "InitialMarginRate": "34.43%",
+    "Date": "20261110"
   },
   {
     "Contract": "QKF",
@@ -2582,18 +2582,18 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QLF",
     "UnderlyingSecurityCode": "3374",
     "ContractName": "精材期貨",
     "UnderlyingOfSingleStockFutures": "精材科技股份有限公司",
-    "GroupLevel": "",
-    "ClearingMarginRate": "30.00%",
-    "MaintenanceMarginRate": "31.05%",
-    "InitialMarginRate": "40.50%",
-    "Date": "20261109"
+    "GroupLevel": "級距3",
+    "ClearingMarginRate": "15.00%",
+    "MaintenanceMarginRate": "15.53%",
+    "InitialMarginRate": "20.25%",
+    "Date": "20261110"
   },
   {
     "Contract": "QOF",
@@ -2604,7 +2604,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QPF",
@@ -2615,7 +2615,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QQF",
@@ -2626,7 +2626,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QTF",
@@ -2637,7 +2637,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QUF",
@@ -2648,7 +2648,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QVF",
@@ -2659,7 +2659,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QWF",
@@ -2670,7 +2670,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QXF",
@@ -2681,7 +2681,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QYF",
@@ -2692,7 +2692,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "QZF",
@@ -2703,7 +2703,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RAF",
@@ -2714,7 +2714,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UHF",
@@ -2725,7 +2725,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RBF",
@@ -2736,7 +2736,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RCF",
@@ -2747,7 +2747,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RDF",
@@ -2758,7 +2758,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "REF",
@@ -2769,7 +2769,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RJF",
@@ -2780,7 +2780,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RKF",
@@ -2791,7 +2791,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VGF",
@@ -2802,7 +2802,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RLF",
@@ -2813,7 +2813,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RNF",
@@ -2824,7 +2824,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "ROF",
@@ -2835,7 +2835,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RPF",
@@ -2846,7 +2846,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RRF",
@@ -2857,7 +2857,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "RUF",
@@ -2868,7 +2868,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SWF",
@@ -2879,7 +2879,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SAF",
@@ -2890,7 +2890,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SBF",
@@ -2901,7 +2901,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SDF",
@@ -2912,7 +2912,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SJF",
@@ -2923,7 +2923,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SKF",
@@ -2934,7 +2934,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SYF",
@@ -2945,7 +2945,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "SZF",
@@ -2956,7 +2956,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UAF",
@@ -2967,7 +2967,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UBF",
@@ -2978,7 +2978,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VKF",
@@ -2989,7 +2989,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UCF",
@@ -3000,7 +3000,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UEF",
@@ -3011,7 +3011,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UFF",
@@ -3022,7 +3022,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UGF",
@@ -3033,7 +3033,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UIF",
@@ -3044,7 +3044,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UMF",
@@ -3055,7 +3055,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UOF",
@@ -3066,7 +3066,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UPF",
@@ -3077,7 +3077,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UQF",
@@ -3088,7 +3088,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UTF",
@@ -3099,7 +3099,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UUF",
@@ -3110,7 +3110,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UVF",
@@ -3121,7 +3121,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UWF",
@@ -3132,7 +3132,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UXF",
@@ -3143,7 +3143,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "UYF",
@@ -3154,7 +3154,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VAF",
@@ -3165,7 +3165,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VBF",
@@ -3176,7 +3176,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VCF",
@@ -3187,7 +3187,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VEF",
@@ -3198,7 +3198,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VFF",
@@ -3209,7 +3209,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VIF",
@@ -3220,7 +3220,7 @@
     "ClearingMarginRate": "10.00%",
     "MaintenanceMarginRate": "10.35%",
     "InitialMarginRate": "13.50%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VLF",
@@ -3231,7 +3231,7 @@
     "ClearingMarginRate": "12.00%",
     "MaintenanceMarginRate": "12.42%",
     "InitialMarginRate": "16.20%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VMF",
@@ -3242,7 +3242,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VNF",
@@ -3253,7 +3253,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VQF",
@@ -3264,7 +3264,7 @@
     "ClearingMarginRate": "16.00%",
     "MaintenanceMarginRate": "16.56%",
     "InitialMarginRate": "21.60%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VRF",
@@ -3275,7 +3275,7 @@
     "ClearingMarginRate": "17.00%",
     "MaintenanceMarginRate": "17.60%",
     "InitialMarginRate": "22.95%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VSF",
@@ -3286,7 +3286,7 @@
     "ClearingMarginRate": "17.00%",
     "MaintenanceMarginRate": "17.60%",
     "InitialMarginRate": "22.95%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VTF",
@@ -3297,7 +3297,7 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   },
   {
     "Contract": "VUF",
@@ -3308,6 +3308,6 @@
     "ClearingMarginRate": "15.00%",
     "MaintenanceMarginRate": "15.53%",
     "InitialMarginRate": "20.25%",
-    "Date": "20261109"
+    "Date": "20261110"
   }
 ]
