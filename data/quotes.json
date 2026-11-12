@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:38:11.008Z",
+  "updatedAt": "2026-11-12T00:44:56.062Z",
   "sourceWatchlistUpdatedAt": "2026-11-07T23:33:01.985Z",
   "quotes": {
     "2330.TW": {
@@ -148,45 +148,45 @@
   },
   "fxRates": {
     "AUD": {
-      "rate": 22.47,
-      "prevClose": 22.69923210144043,
-      "asOf": "2026-11-11T23:36:31.000Z",
+      "rate": 22.451,
+      "prevClose": 22.637069702148438,
+      "asOf": "2026-11-12T00:41:32.000Z",
       "yahooSymbol": "AUDTWD=X"
     },
     "CNY": {
-      "rate": 4.9336,
-      "prevClose": 4.9359,
-      "asOf": "2026-11-11T22:51:30.000Z",
+      "rate": 4.928,
+      "prevClose": 4.9336,
+      "asOf": "2026-11-12T00:41:32.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
-      "rate": 36.502,
-      "prevClose": 36.795345306396484,
-      "asOf": "2026-11-11T23:36:31.000Z",
+      "rate": 36.498,
+      "prevClose": 36.805084228515625,
+      "asOf": "2026-11-12T00:41:32.000Z",
       "yahooSymbol": "EURTWD=X"
     },
     "GBP": {
-      "rate": 43.683,
-      "prevClose": 44.073795318603516,
-      "asOf": "2026-11-11T23:36:31.000Z",
+      "rate": 43.674,
+      "prevClose": 43.98737335205078,
+      "asOf": "2026-11-12T00:41:32.000Z",
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.195,
-      "prevClose": 4.180605888366699,
-      "asOf": "2026-11-11T23:36:31.000Z",
+      "rate": 4.1946,
+      "prevClose": 4.200569152832031,
+      "asOf": "2026-11-12T00:41:32.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
-      "rate": 0.2036,
-      "prevClose": 0.20753900706768036,
-      "asOf": "2026-11-11T23:36:31.000Z",
+      "rate": 0.2037,
+      "prevClose": 0.20762899518013,
+      "asOf": "2026-11-12T00:41:32.000Z",
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 32.861,
-      "prevClose": 32.78860092163086,
-      "asOf": "2026-11-11T23:28:47.000Z",
+      "rate": 32.858,
+      "prevClose": 32.953800201416016,
+      "asOf": "2026-11-12T00:43:47.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
