@@ -1,7 +1,7 @@
 {
   "ticker": "IYW",
   "yahooSymbol": "IYW",
-  "updatedAt": "2026-11-14T01:17:55.033Z",
+  "updatedAt": "2026-11-14T02:22:21.643Z",
   "exchangeTimezone": "America/New_York",
   "gmtoffset": -18000,
   "splits": [
@@ -53300,6 +53300,14 @@
       "low": 230,
       "close": 235.2899932861328,
       "volume": 494700
+    },
+    {
+      "date": "2026-11-13",
+      "open": 235.91000366210938,
+      "high": 235.91000366210938,
+      "low": 228.6699981689453,
+      "close": 232.17999267578125,
+      "volume": 497500
     }
   ]
 }
