@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T17:27:39.295Z",
+  "updatedAt": "2026-11-15T21:58:37.574Z",
   "sourceWatchlistUpdatedAt": "2026-11-14T02:39:19.941Z",
   "quotes": {
     "2330.TW": {
@@ -170,45 +170,45 @@
   },
   "fxRates": {
     "AUD": {
-      "rate": 22.247,
-      "prevClose": 22.482358932495117,
-      "asOf": "2026-11-13T22:26:46.000Z",
+      "rate": 22.267,
+      "prevClose": 22.42067527770996,
+      "asOf": "2026-11-15T21:56:47.000Z",
       "yahooSymbol": "AUDTWD=X"
     },
     "CNY": {
-      "rate": 4.935,
+      "rate": 4.9347,
       "prevClose": 4.9461,
-      "asOf": "2026-11-15T17:26:48.000Z",
+      "asOf": "2026-11-15T21:56:47.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
-      "rate": 36.279,
-      "prevClose": 36.468650817871094,
-      "asOf": "2026-11-13T22:26:46.000Z",
+      "rate": 36.31,
+      "prevClose": 36.39668655395508,
+      "asOf": "2026-11-15T21:56:47.000Z",
       "yahooSymbol": "EURTWD=X"
     },
     "GBP": {
-      "rate": 43.487,
-      "prevClose": 43.63463592529297,
-      "asOf": "2026-11-13T22:26:46.000Z",
+      "rate": 43.54,
+      "prevClose": 43.58076858520508,
+      "asOf": "2026-11-15T18:21:44.000Z",
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.1961,
+      "rate": 4.1993,
       "prevClose": 4.198859214782715,
-      "asOf": "2026-11-15T17:26:48.000Z",
+      "asOf": "2026-11-15T21:56:47.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
-      "rate": 0.2037,
-      "prevClose": 0.2058349996805191,
-      "asOf": "2026-11-13T22:26:46.000Z",
+      "rate": 0.2039,
+      "prevClose": 0.20601600408554077,
+      "asOf": "2026-11-15T21:56:47.000Z",
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 32.875,
+      "rate": 32.898,
       "prevClose": 32.93899917602539,
-      "asOf": "2026-11-15T17:17:55.000Z",
+      "asOf": "2026-11-15T21:28:23.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
