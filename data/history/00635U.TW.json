@@ -1,7 +1,7 @@
 {
   "ticker": "00635U.TW",
   "yahooSymbol": "00635U.TW",
-  "updatedAt": "2026-11-16T08:24:53.499Z",
+  "updatedAt": "2026-11-16T19:21:09.882Z",
   "exchangeTimezone": "Asia/Taipei",
   "gmtoffset": 28800,
   "splits": [],
@@ -22660,7 +22660,7 @@
       "high": 39.869998931884766,
       "low": 39.65999984741211,
       "close": 39.7400016784668,
-      "volume": 3265248
+      "volume": 3144425
     }
   ]
 }
