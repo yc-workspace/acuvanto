@@ -1,7 +1,7 @@
 {
   "ticker": "0052.TW",
   "yahooSymbol": "0052.TW",
-  "updatedAt": "2026-11-18T05:26:19.873Z",
+  "updatedAt": "2026-11-18T09:10:39.484Z",
   "exchangeTimezone": "Asia/Taipei",
   "gmtoffset": 28800,
   "splits": [],
@@ -36971,8 +36971,8 @@
       "open": 54.75,
       "high": 55.04999923706055,
       "low": 53.04999923706055,
-      "close": 54.099998474121094,
-      "volume": 23176978
+      "close": 54.400001525878906,
+      "volume": 24608839
     }
   ]
 }
