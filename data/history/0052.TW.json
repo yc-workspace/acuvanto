@@ -1,10 +1,17 @@
 {
   "ticker": "0052.TW",
   "yahooSymbol": "0052.TW",
-  "updatedAt": "2026-11-20T17:37:06.872Z",
+  "updatedAt": "2026-11-21T01:58:37.277Z",
   "exchangeTimezone": "Asia/Taipei",
   "gmtoffset": 28800,
-  "splits": [],
+  "splits": [
+    {
+      "date": "2025-11-19",
+      "numerator": 7,
+      "denominator": 1,
+      "ratio": 7
+    }
+  ],
   "rows": [
     {
       "date": "2008-01-02",
