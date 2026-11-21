@@ -1,7 +1,7 @@
 {
   "ticker": "00708L.TW",
   "yahooSymbol": "00708L.TW",
-  "updatedAt": "2026-11-21T01:58:38.148Z",
+  "updatedAt": "2026-11-21T16:38:36.464Z",
   "exchangeTimezone": "Asia/Taipei",
   "gmtoffset": 28800,
   "splits": [],
@@ -17981,6 +17981,14 @@
       "low": 55.650001525878906,
       "close": 56.75,
       "volume": 6477463
+    },
+    {
+      "date": "2026-11-20",
+      "open": 52.54999923706055,
+      "high": 53,
+      "low": 50.20000076293945,
+      "close": 50.349998474121094,
+      "volume": 11925100
     }
   ]
 }
