@@ -1,7 +1,7 @@
 {
   "ticker": "0050.TW",
   "yahooSymbol": "0050.TW",
-  "updatedAt": "2026-11-23T01:46:42.846Z",
+  "updatedAt": "2026-11-23T07:48:18.994Z",
   "exchangeTimezone": "Asia/Taipei",
   "gmtoffset": 28800,
   "splits": [
@@ -35032,10 +35032,10 @@
     {
       "date": "2026-11-23",
       "open": 84.4000015258789,
-      "high": 86.69999694824219,
+      "high": 87.5,
       "low": 83.5,
-      "close": 84.5,
-      "volume": 197242421
+      "close": 87,
+      "volume": 507682681
     }
   ]
 }
