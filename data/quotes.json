@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T07:02:17.103Z",
+  "updatedAt": "2026-11-25T07:04:32.640Z",
   "sourceWatchlistUpdatedAt": "2026-11-23T01:45:16.493Z",
   "quotes": {
     "2330.TW": {
@@ -206,9 +206,9 @@
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 33.165,
+      "rate": 33.168,
       "prevClose": 32.8484992980957,
-      "asOf": "2026-11-25T07:01:03.000Z",
+      "asOf": "2026-11-25T07:04:29.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
