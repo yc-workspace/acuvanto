@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:38:14.128Z",
+  "updatedAt": "2026-11-26T11:58:33.018Z",
   "sourceWatchlistUpdatedAt": "2026-11-23T01:45:16.493Z",
   "quotes": {
     "2330.TW": {
@@ -15,9 +15,9 @@
     },
     "0052.TW": {
       "price": 53.45,
-      "prevClose": 55.150001525878906,
-      "change": -1.7000015258789034,
-      "changePct": -3.082504948039185,
+      "prevClose": 52.150001525878906,
+      "change": 1.2999984741210966,
+      "changePct": 2.4928062053382405,
       "volume": 30273987,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -26,9 +26,9 @@
     },
     "00635U.TW": {
       "price": 36.85,
-      "prevClose": 37.25,
-      "change": -0.3999999999999986,
-      "changePct": -1.073825503355701,
+      "prevClose": 36.31999969482422,
+      "change": 0.5300003051757827,
+      "changePct": 1.4592519538245217,
       "volume": 2115195,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -37,9 +37,9 @@
     },
     "00708L.TW": {
       "price": 52.45,
-      "prevClose": 53.54999923706055,
-      "change": -1.099999237060544,
-      "changePct": -2.0541535998739353,
+      "prevClose": 50.900001525878906,
+      "change": 1.5499984741210966,
+      "changePct": 3.045183551385625,
       "volume": 3068107,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -92,9 +92,9 @@
     },
     "00662.TW": {
       "price": 22.27,
-      "prevClose": 22.649999618530273,
-      "change": -0.37999961853027386,
-      "changePct": -1.677702538323184,
+      "prevClose": 21.860000610351562,
+      "change": 0.4099993896484371,
+      "changePct": 1.8755689762162513,
       "volume": 17253214,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -114,9 +114,9 @@
     },
     "00935.TW": {
       "price": 45.12,
-      "prevClose": 46.439998626708984,
-      "change": -1.319998626708987,
-      "changePct": -2.8423743879049503,
+      "prevClose": 43.2599983215332,
+      "change": 1.8600016784667943,
+      "changePct": 4.299587958007283,
       "volume": 16537557,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -136,9 +136,9 @@
     },
     "0050.TW": {
       "price": 92.85,
-      "prevClose": 95.69999694824219,
-      "change": -2.849996948242193,
-      "changePct": -2.978053332419194,
+      "prevClose": 90.30000305175781,
+      "change": 2.549996948242182,
+      "changePct": 2.823916790767531,
       "volume": 242272995,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -170,45 +170,45 @@
   },
   "fxRates": {
     "AUD": {
-      "rate": 21.871,
+      "rate": 21.832,
       "prevClose": 21.8376522064209,
-      "asOf": "2026-11-26T07:36:44.000Z",
+      "asOf": "2026-11-26T11:56:44.000Z",
       "yahooSymbol": "AUDTWD=X"
     },
     "CNY": {
-      "rate": 4.9576,
+      "rate": 4.9522,
       "prevClose": 4.9829,
-      "asOf": "2026-11-26T07:36:44.000Z",
+      "asOf": "2026-11-26T11:56:44.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
-      "rate": 36.22,
+      "rate": 36.194,
       "prevClose": 36.08848571777344,
-      "asOf": "2026-11-26T07:36:44.000Z",
+      "asOf": "2026-11-26T11:56:44.000Z",
       "yahooSymbol": "EURTWD=X"
     },
     "GBP": {
-      "rate": 43.279,
+      "rate": 43.218,
       "prevClose": 43.1650276184082,
-      "asOf": "2026-11-26T07:36:44.000Z",
+      "asOf": "2026-11-26T11:56:44.000Z",
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.2113,
+      "rate": 4.2109,
       "prevClose": 4.198164939880371,
-      "asOf": "2026-11-26T07:36:44.000Z",
+      "asOf": "2026-11-26T11:56:44.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
-      "rate": 0.2049,
+      "rate": 0.2047,
       "prevClose": 0.20669500529766083,
-      "asOf": "2026-11-26T07:36:44.000Z",
+      "asOf": "2026-11-26T11:56:44.000Z",
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 32.983,
+      "rate": 32.958,
       "prevClose": 32.92100143432617,
-      "asOf": "2026-11-26T07:38:11.000Z",
+      "asOf": "2026-11-26T11:58:26.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
