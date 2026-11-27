@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:56:28.102Z",
+  "updatedAt": "2026-11-27T13:03:47.562Z",
   "sourceWatchlistUpdatedAt": "2026-11-23T01:45:16.493Z",
   "quotes": {
     "2330.TW": {
@@ -15,9 +15,9 @@
     },
     "0052.TW": {
       "price": 53.45,
-      "prevClose": 52.150001525878906,
-      "change": 1.2999984741210966,
-      "changePct": 2.4928062053382405,
+      "prevClose": 53.45000076293945,
+      "change": -7.629394502828291e-7,
+      "changePct": -0.00000142738903534652,
       "volume": 28173856,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -26,9 +26,9 @@
     },
     "00635U.TW": {
       "price": 37.4,
-      "prevClose": 36.31999969482422,
-      "change": 1.0800003051757798,
-      "changePct": 2.973569147165178,
+      "prevClose": 36.849998474121094,
+      "change": 0.5500015258789048,
+      "changePct": 1.4925415160197586,
       "volume": 1367785,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -37,9 +37,9 @@
     },
     "00708L.TW": {
       "price": 54.1,
-      "prevClose": 50.900001525878906,
-      "change": 3.199998474121095,
-      "changePct": 6.286833748902996,
+      "prevClose": 52.45000076293945,
+      "change": 1.6499992370605483,
+      "changePct": 3.1458516931546323,
       "volume": 3224526,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -92,9 +92,9 @@
     },
     "00662.TW": {
       "price": 22.64,
-      "prevClose": 21.860000610351562,
-      "change": 0.7799993896484381,
-      "changePct": 3.5681581329832075,
+      "prevClose": 22.270000457763672,
+      "change": 0.3699995422363287,
+      "changePct": 1.661425840282554,
       "volume": 16239121,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -114,9 +114,9 @@
     },
     "00935.TW": {
       "price": 44.8,
-      "prevClose": 43.2599983215332,
-      "change": 1.540001678466794,
-      "changePct": 3.559874568234181,
+      "prevClose": 45.119998931884766,
+      "change": -0.31999893188476847,
+      "changePct": -0.7092175076685033,
       "volume": 6112496,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -136,9 +136,9 @@
     },
     "0050.TW": {
       "price": 92.4,
-      "prevClose": 90.30000305175781,
-      "change": 2.099996948242193,
-      "changePct": 2.325577937177394,
+      "prevClose": 92.8499984741211,
+      "change": -0.44999847412108807,
+      "changePct": -0.48465103017369515,
       "volume": 110629107,
       "currency": "TWD",
       "exchangeName": "TAI",
@@ -170,45 +170,45 @@
   },
   "fxRates": {
     "AUD": {
-      "rate": 21.959,
+      "rate": 21.963,
       "prevClose": 21.993520736694336,
-      "asOf": "2026-11-27T06:51:46.000Z",
+      "asOf": "2026-11-27T13:01:44.000Z",
       "yahooSymbol": "AUDTWD=X"
     },
     "CNY": {
-      "rate": 4.9586,
+      "rate": 4.9572,
       "prevClose": 4.9499,
-      "asOf": "2026-11-27T06:51:46.000Z",
+      "asOf": "2026-11-27T13:01:44.000Z",
       "yahooSymbol": "CNYTWD=X"
     },
     "EUR": {
-      "rate": 36.212,
+      "rate": 36.174,
       "prevClose": 36.42219924926758,
-      "asOf": "2026-11-27T06:51:46.000Z",
+      "asOf": "2026-11-27T13:01:44.000Z",
       "yahooSymbol": "EURTWD=X"
     },
     "GBP": {
-      "rate": 43.295,
+      "rate": 43.311,
       "prevClose": 43.523704528808594,
-      "asOf": "2026-11-27T06:51:46.000Z",
+      "asOf": "2026-11-27T13:01:44.000Z",
       "yahooSymbol": "GBPTWD=X"
     },
     "HKD": {
-      "rate": 4.2158,
+      "rate": 4.2157,
       "prevClose": 4.233777046203613,
-      "asOf": "2026-11-27T06:51:46.000Z",
+      "asOf": "2026-11-27T13:01:44.000Z",
       "yahooSymbol": "HKDTWD=X"
     },
     "JPY": {
-      "rate": 0.2046,
+      "rate": 0.2045,
       "prevClose": 0.20849700272083282,
-      "asOf": "2026-11-27T06:51:46.000Z",
+      "asOf": "2026-11-27T13:01:44.000Z",
       "yahooSymbol": "JPYTWD=X"
     },
     "USD": {
-      "rate": 32.96,
+      "rate": 32.956,
       "prevClose": 33.18899917602539,
-      "asOf": "2026-11-27T06:56:26.000Z",
+      "asOf": "2026-11-27T13:03:46.000Z",
       "yahooSymbol": "USDTWD=X"
     }
   }
